@@ -1,7 +1,7 @@
-Generation date: Dim 17 oct 2010 17:32:36 CEST
+﻿Generation date: Dim 17 oct 2010 17:58:36 CEST
 
 -------------------------------------------------------------
-﻿
+
 
 
 
@@ -79,7 +79,7 @@ côté.
 
 
 Guillaume B. 
-guitreize@gmail.com
+guitreize _at_ gmail _dot_ com
 
 
 

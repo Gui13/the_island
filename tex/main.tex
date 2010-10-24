@@ -1,0 +1,117 @@
+% These lines tell TeXShop to typeset with xelatex, and to open % and save the source with Unicode encoding.
+
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[12pt]{book}
+
+
+\usepackage{xunicode}
+\usepackage{fontspec}
+\setromanfont[Mapping=tex-text]{Helvetica}
+
+
+\usepackage{graphicx}
+\usepackage[frenchb]{babel}
+
+
+%%% Grandes pénalités 
+%%% pour les retours ‡ la ligne
+%\widowpenalty=10000
+%\clubpenalty=10000
+%\raggedbottom
+
+%%% Pas de numéro de page sur la première page des chapitres
+\makeatletter
+\let\ps@plain=\ps@empty
+\makeatother
+\newlength{\cotetriangle}
+\setlength{\cotetriangle}{9pt}
+
+
+%%% Cul de lampe -> trois étoiles
+\newcommand*\troisetoile{%
+  \begingroup % pour que le \centering soit local
+              % ainsi que les précautions de fontes qui suivent
+  \normalsize % taille habituelle
+  \mdseries   % en graisse moyenne
+  \upshape    % et en romain
+  \par\nobreak
+  \centering
+  *\hspace{\cotetriangle}*
+  \par\nobreak\vspace{-12pt}\vspace{0.866\cotetriangle}
+  *
+  \par\penalty-150 % par exemple
+  \endgroup
+}
+
+\newcommand{\transit}{
+	\troisetoile
+}
+
+\title{L'Île}
+\author{Peter Watts}
+%\date{Dimanche, 24 Octobre 2010} 
+ \date{}
+
+\begin{document} 
+\maketitle
+ 
+\input{../Chapitres/Intro}
+ 
+\transit
+
+\input{../Chapitres/Chapter01}
+
+\transit
+\input{../Chapitres/Chapter02}
+
+\transit
+ \input{../Chapitres/Chapter03}
+
+\transit
+ \input{../Chapitres/Chapter04}
+
+\transit
+ \input{../Chapitres/Chapter05}
+
+\transit
+ \input{../Chapitres/Chapter06}
+
+\transit
+ \input{../Chapitres/Chapter07}
+
+\transit
+ \input{../Chapitres/Chapter08}
+
+\transit
+ \input{../Chapitres/Chapter09}
+
+\transit
+ \input{../Chapitres/Chapter10}
+
+\transit
+ \input{../Chapitres/Chapter11}
+
+\transit
+ \input{../Chapitres/Chapter12}
+
+\transit
+ \input{../Chapitres/Chapter13}
+
+\transit
+ \input{../Chapitres/Chapter14}
+
+\transit
+ \input{../Chapitres/Chapter15}
+
+\transit
+ \input{../Chapitres/Chapter16}
+
+\transit
+\newpage
+\input{../Notes}
+ \input{../footer}
+
+ 
+\end{document}

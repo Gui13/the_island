@@ -1,9 +1,11 @@
 \section*{Notes}
 
+\renewcommand{\labelitemi}{$\bullet$}
+
 \subsubsection*{Intro}
 
 \begin{itemize}
- \item The Damascus Disease : traduit par "la maladie de Damas", mais il pourrait s'agir du conflit israelo palestinien (cf  \url{http://www.hudson-ny.org/158/the-damascus-disease} ). À vérifier?
+ \item The Damascus Disease : traduit par "la maladie de Damas", mais il pourrait s'agir du conflit israelo palestinien.\par Voir \url{http://www.hudson-ny.org/158/the-damascus-disease}. À vérifier?
 \end{itemize}
   
   
@@ -12,7 +14,7 @@
 \begin{itemize}
  \item the Tank: difficile d'avoir confirmation, mais je pense que c'est un hologramme. Du coup je l'ai traduit par holo ou hologramme.
  \item les "Vons" réfèrent très probablement aux machines de Von Neumann, des machines capables de s'auto répliquer. Il faudrait trouver un nom "francisé" pour ces choses. Pour le moment, je les appelle les "Neumanns".
- \item now there's a laugh-and-a-half : pas trouvé de références. Traduit par "c'en est presque comique".
+ \item now there's a laugh and a half : pas trouvé de références. Traduit par "c'en est presque comique".
  \item corsec: une unité de temps. J'imagine que ca correspond à la seconde, je l'ai traduit par "secondes".
 \end{itemize}
  

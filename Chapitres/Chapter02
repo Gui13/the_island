@@ -43,13 +43,12 @@ Effectivement, ça clignote.
 "Pas aléatoire, je suppose."
 
 Dix incline sa tête un peu sur le côté, presque pour acquiescer. 
-
+\newpage
 "Trace un graphe temporel." Je n'ai jamais pu m'empêcher d'hausser le ton, juste un peu, quand je m'adresse à Chimp. Obéissante (Obéissante. C'en est presque comique), l'IA efface le panorama spatial pour le remplacer par ceci:
 
-.... .  .  .    .      .        .            .                .                     .                           .                            .
+\includegraphics{../dots}
 
-
-"Séquence répétitive", me dit Dix. "Les bips ne changent pas, mais l'espacement croît de manière log-linéaire, boucle toutes les 92.5 secondes. Chaque cycle démarre à 13.2 bips/s, et diminue dans le temps." 
+"Séquence répétitive", me dit Dix. "Les bips ne changent pas, mais l'es\-pa\-ce\-ment croît de manière log-linéaire, boucle toutes les 92.5 secondes. Chaque cycle démarre à 13.2 bips/s, et diminue dans le temps." 
 
 "Aucune chance que ça soit naturel? Un trou noir qui oscillerait au centre de l'étoile, peut-être?"
 
@@ -65,7 +64,7 @@ Je serre les lèvres. "L'étoile nous salue. C'est ce que tu penses."
 
 Et pourtant. Un signal intelligent.
 
-"On a besoin de plus d'infos", explique Dix, se proclamant malgré lui maitre de l'aveuglément évident.
+"On a besoin de plus d'infos", explique Dix, se proclamant malgré lui maitre de l'aveu\-glément évident.
 
 J'acquiesce. "Les Neumanns."
 
@@ -85,7 +84,7 @@ Je refoule un reniflement. "Si tu es aussi inquiet pour tes performances sur cet
 
 "D'accord. Neumanns réassignés."
 
-La confirmation est visible sur l'un des panneaux, une séquence complexe d’instructions de pas de danse lancées dans le vide spatial. Dans six mois, une centaine de robots auto-réplicants se re-positionneront en une grille de surveillance temporaire; et quatre mois plus tard, nous aurons peut-être plus que le vide spatial comme données sur lesquelles débattre.
+La confirmation est visible sur l'un des panneaux, une séquence complexe d’instru\-ctions de pas de danse lancées dans le vide spatial. Dans six mois, une centaine de robots auto-réplicants se re-positionneront en une grille de surveillance temporaire; et quatre mois plus tard, nous aurons peut-être plus que le vide spatial comme données sur lesquelles débattre.
 
 Dix me regarde comme si j'avais prononcé une formule magique.
 

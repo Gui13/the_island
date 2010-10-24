@@ -4,7 +4,7 @@
 %!TEX TS-program = xelatex 
 %!TEX encoding = UTF-8 Unicode
 
-\documentclass[12pt]{book}
+\documentclass[12pt]{article}
 
 %%% La distribution XeteX permet d'utiliser facilement une fonte externe (ici Helvetica).
 %%% On a besoin de xunicode (parce que les fichiers texte sont en unicode) et de fontspec
@@ -20,7 +20,6 @@
 %%% liens et références dans les PDF
 \usepackage{hyperref}
 \hypersetup{
-    bookmarks=true,         % show bookmarks bar?
     unicode=true,          % non-Latin characters in Acrobat’s bookmarks
     pdftoolbar=true,        % show Acrobat’s toolbar?
     pdfmenubar=true,        % show Acrobat’s menu?
@@ -47,7 +46,7 @@
 
 %%% Cul de lampe -> trois étoiles
 \newlength{\cotetriangle}
-\setlength{\cotetriangle}{12pt}
+\setlength{\cotetriangle}{2ex}
 \newcommand*\troisetoile{%
   \begingroup % pour que le \centering soit local
                          % ainsi que les précautions de fontes qui suivent
@@ -55,22 +54,27 @@
   \mdseries     % en graisse moyenne
   \upshape      % et en romain
   \par\nobreak
+  \vspace*{1.5 cm}
   \centering
-  *\hspace{\cotetriangle}*
-  \par\nobreak\vspace{-12pt}\vspace{0.866\cotetriangle}
-  *
+  *\hspace{\cotetriangle}*\hspace{\cotetriangle}*
   \par\penalty-150 % par exemple
+  \vspace*{1.5 cm}
   \endgroup
 }
 
 %%% Commande de 'transit': comment on passe d'un chapitre à un autre
 \newcommand{\transit}{
-	~~\\
-	~~\\
 	\troisetoile
-	~~\\
-	~~\\
 }
+
+%%% pas d'indentation au début des paragraphes
+\parindent=0pt
+\setlength{\parskip}{2ex plus 0.5ex minus 0.2ex}
+
+%%% plus petites marges
+\addtolength{\textwidth}{2cm}
+\addtolength{\oddsidemargin}{-1cm}
+
 
 \title{L'Île}
 \author{Peter Watts}

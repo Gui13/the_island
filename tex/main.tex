@@ -1,11 +1,14 @@
-% These lines tell TeXShop to typeset with xelatex, and to open % and save the source with Unicode encoding.
+% These lines tell TeXShop to typeset with xelatex, and to open 
+% and save the source with Unicode encoding.
 
 %!TEX TS-program = xelatex 
 %!TEX encoding = UTF-8 Unicode
 
 \documentclass[12pt]{book}
 
-
+%%% La distribution XeteX permet d'utiliser facilement une fonte externe (ici Helvetica).
+%%% On a besoin de xunicode (parce que les fichiers texte sont en unicode) et de fontspec
+%%% pour que XeteX fonctionne bien.
 \usepackage{xunicode}
 \usepackage{fontspec}
 \setromanfont[Mapping=tex-text]{Helvetica}
@@ -14,28 +17,43 @@
 \usepackage{graphicx}
 \usepackage[frenchb]{babel}
 
-
-%%% Grandes pénalités 
-%%% pour les retours ‡ la ligne
-%\widowpenalty=10000
-%\clubpenalty=10000
-%\raggedbottom
+%%% liens et références dans les PDF
+\usepackage{hyperref}
+\hypersetup{
+    bookmarks=true,         % show bookmarks bar?
+    unicode=true,          % non-Latin characters in Acrobat’s bookmarks
+    pdftoolbar=true,        % show Acrobat’s toolbar?
+    pdfmenubar=true,        % show Acrobat’s menu?
+    pdffitwindow=false,     % window fit to page when opened
+    pdfstartview={FitH},    % fits the width of the page to the window
+    pdftitle={The Island},    % title
+    pdfauthor={Peter Watts},     % author
+    pdfsubject={Traduction en Français},   % subject of the document
+    pdfcreator={Guillaume B},   % creator of the document 
+    pdfkeywords={the island} {traduction} {Francais}, % list of keywords
+    pdfnewwindow=true,      % links in new window
+    colorlinks= true,       % false: boxed links; true: colored links
+    linkcolor= blue,          % color of internal links
+    citecolor= blue,        % color of links to bibliography
+    filecolor= blue,      % color of file links
+    urlcolor=blue           % color of external links
+}
 
 %%% Pas de numéro de page sur la première page des chapitres
 \makeatletter
 \let\ps@plain=\ps@empty
 \makeatother
-\newlength{\cotetriangle}
-\setlength{\cotetriangle}{9pt}
 
 
 %%% Cul de lampe -> trois étoiles
+\newlength{\cotetriangle}
+\setlength{\cotetriangle}{12pt}
 \newcommand*\troisetoile{%
   \begingroup % pour que le \centering soit local
-              % ainsi que les précautions de fontes qui suivent
-  \normalsize % taille habituelle
-  \mdseries   % en graisse moyenne
-  \upshape    % et en romain
+                         % ainsi que les précautions de fontes qui suivent
+  \normalsize  % taille habituelle
+  \mdseries     % en graisse moyenne
+  \upshape      % et en romain
   \par\nobreak
   \centering
   *\hspace{\cotetriangle}*
@@ -45,71 +63,75 @@
   \endgroup
 }
 
+%%% Commande de 'transit': comment on passe d'un chapitre à un autre
 \newcommand{\transit}{
+	~~\\
+	~~\\
 	\troisetoile
+	~~\\
+	~~\\
 }
 
 \title{L'Île}
 \author{Peter Watts}
-%\date{Dimanche, 24 Octobre 2010} 
+%\date{Dimanche, 24 Octobre 2010}  %%% à décommenter un jour?
  \date{}
 
 \begin{document} 
+
+%%% les pages du début n'ont pas de numéro de page
+\pagestyle{empty}
 \maketitle
+ \cleardoublepage
+
  
+\input{../header}
+\cleardoublepage
+
+%%% le reste a un numéro de page, on commence à 1
+\pagestyle{headings}
+\setcounter{page}{1}
+ 
+%%% le texte en lui-même
 \input{../Chapitres/Intro}
- 
 \transit
-
 \input{../Chapitres/Chapter01}
-
 \transit
 \input{../Chapitres/Chapter02}
-
 \transit
  \input{../Chapitres/Chapter03}
-
 \transit
  \input{../Chapitres/Chapter04}
-
 \transit
  \input{../Chapitres/Chapter05}
-
 \transit
  \input{../Chapitres/Chapter06}
-
 \transit
  \input{../Chapitres/Chapter07}
-
 \transit
  \input{../Chapitres/Chapter08}
-
 \transit
  \input{../Chapitres/Chapter09}
-
 \transit
  \input{../Chapitres/Chapter10}
-
 \transit
  \input{../Chapitres/Chapter11}
-
 \transit
  \input{../Chapitres/Chapter12}
-
 \transit
  \input{../Chapitres/Chapter13}
-
 \transit
  \input{../Chapitres/Chapter14}
-
 \transit
  \input{../Chapitres/Chapter15}
-
 \transit
  \input{../Chapitres/Chapter16}
-
 \transit
-\newpage
+
+\cleardoublepage
+
+\pagestyle{empty}
+
 \input{../Notes}
  \input{../footer}
 

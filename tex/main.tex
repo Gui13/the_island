@@ -65,10 +65,12 @@
 %%% Commande de 'transit': comment on passe d'un chapitre à un autre
 \newcommand{\transit}{
 	\troisetoile
+%%%	\newpage
 }
 
 %%% pas d'indentation au début des paragraphes
 \parindent=0pt
+%\setlength{\parskip}{0pt}  
 \setlength{\parskip}{2ex plus 0.5ex minus 0.2ex}
 
 %%% plus petites marges
@@ -93,7 +95,8 @@
 \cleardoublepage
 
 %%% le reste a un numéro de page, on commence à 1
-\pagestyle{headings}
+\pagestyle{myheadings}
+\markright{\bf{\emph{The Island}}\hfill}
 \setcounter{page}{1}
  
 %%% le texte en lui-même

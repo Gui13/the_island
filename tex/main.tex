@@ -6,6 +6,14 @@
 
 \documentclass[12pt]{article}
 
+%%%%%%%%%
+
+
+%%%%%%%%%%%%%%% ENCODAGE %%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%% Commande pour compiler: xelatex main.tex
+
 %%% La distribution XeteX permet d'utiliser facilement une fonte externe (ici Helvetica).
 %%% On a besoin de xunicode (parce que les fichiers texte sont en unicode) et de fontspec
 %%% pour que XeteX fonctionne bien.
@@ -13,11 +21,20 @@
 \usepackage{fontspec}
 \setromanfont[Mapping=tex-text]{Helvetica}
 
+%%% Décommenter ces lignes et commenter les 3 du dessus pour faire l'export vers html 
+%%% Commande: htlatex main.tex -> plein d'erreurs, faire Control+D pour les passer, l'export
+%%% fonctionne plutôt bien.
+
+%\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \usepackage{graphicx}
 \usepackage[frenchb]{babel}
 
-%%% liens et références dans les PDF
+%%% 			liens et références dans les PDF
 \usepackage{hyperref}
 \hypersetup{
     unicode=true,          % non-Latin characters in Acrobat’s bookmarks
@@ -44,7 +61,7 @@
 \makeatother
 
 
-%%% Cul de lampe -> trois étoiles
+%%% 			Cul de lampe -> trois étoiles
 \newlength{\cotetriangle}
 \setlength{\cotetriangle}{2ex}
 \newcommand*\troisetoile{%
@@ -62,7 +79,7 @@
   \endgroup
 }
 
-%%% Commande de 'transit': comment on passe d'un chapitre à un autre
+%%% 	Commande de 'transit': comment on passe d'un chapitre à un autre
 \newcommand{\transit}{
 	\troisetoile
 %%%	\newpage
@@ -73,7 +90,7 @@
 %\setlength{\parskip}{0pt}  
 \setlength{\parskip}{2ex plus 0.5ex minus 0.2ex}
 
-%%% plus petites marges
+%%% 		plus petites marges
 \addtolength{\textwidth}{2cm}
 \addtolength{\oddsidemargin}{-1cm}
 
@@ -83,9 +100,10 @@
 %\date{Dimanche, 24 Octobre 2010}  %%% à décommenter un jour?
  \date{}
 
+
 \begin{document} 
 
-%%% les pages du début n'ont pas de numéro de page
+%%% 		les pages du début n'ont pas de numéro de page
 \pagestyle{empty}
 \maketitle
  \cleardoublepage

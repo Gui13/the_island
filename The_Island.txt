@@ -1,85 +1,23 @@
-﻿Generation date: Dim 17 oct 2010 17:58:36 CEST
+Generation date: Dim 31 oct 2010 10:31:16 CET
 
 -------------------------------------------------------------
+\section*{Notes}
 
+Ce texte est une traduction amateur de la nou\-velle de Peter Watts, ‘The Island’.
+Elle est publiée sous licence Creative Commons suivant les termes énoncés sur le site de l'auteur, où cette nouvelle est accessible librement:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-								The Island
-								
-								
-								
-								
-								
-								
-								
-								Peter Watts
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-								
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Notes: 
-——————
-
-
-Cette nouvelle est publiée sous licence Creative Commons suivant les termes
-énoncés sur le site de lʼauteur où cette nouvelle est accessible librement:
-
-http://www.rifters.com/ real/shorts.htm . 
+\url{http://www.rifters.com/ real/shorts.htm}. 
 
 Voici un lien direct vers cette licence: 
 
-http://creativecommons.org/licenses/by-nc-sa/2.5/
+\url{http://creativecommons.org/licenses/by-nc-sa/2.5/}
 
-
-Vous trouverez à la fin quelques notes sur la traduction, elles mʼont servi, et
-pourront vous servir éventuellement si vous lisez avec la version anglais à
-côté.
-
+Vous trouverez à la fin quelques notes sur la traduction, elles m'ont servi, et
+pourront vous servir éventuellement si vous lisez avec la version anglais à côté.
 
 Guillaume B. 
-guitreize _at_ gmail _dot_ com
+
+\href{mailto:guitreize@gmail.com}{\nolinkurl{guitreize \_at\_ gmail \_dot\_ com}}
 
 
 
@@ -121,34 +59,6 @@ guitreize _at_ gmail _dot_ com
 
 
 
-
-
-
-
-
-
-﻿Nous sommes les hommes des cavernes. Nous sommes les Anciens, les Géniteurs, des singes ouvriers dans notre boite de fer. Nous faisons tourner votre toile et nous construisons vos portes magiques, nouant chaque pointe d'épingle à soixante mille kilomètres seconde. On ne s'arrête jamais. On ne songerait même jamais ne serait-ce qu'à ralentir, sinon votre arrivée nous transformerait en plasma. Tout ça pour vous. Tout cela pour que vous puissiez sauter d'étoiles en étoiles sans salir vos bottes dans le vide sans fin qui les sépare.
-
-Est-ce vraiment trop demander, que vous nous parliez, de temps en temps.
-
-Je connais l'évolution et les modifications. Je sais combien vous avez changé. J'ai vu ces portails donner naissance à des dieux et des démons, des choses que l'on ne peut espérer comprendre un jour, des choses dont on ne penserait pas qu'elle fussent humaines; des auto-stoppeurs extraterrestres, peut être, utilisant les rails que nous avons laissés derrière nous. Des extra-terrestres conquérants.
-
-Des exterminateurs, peut être.
-
-Mais j'ai aussi vu ces portes rester sombres et inutilisées jusqu'à ce qu'elles disparaissent de notre vue. Nous avons pensé à un dépérissement ou des âges sombres, des civilisations détruites et d'autres s'élevant de leurs cendres— et quelquefois, peu après, les choses qui en sortent ressemblent un peu aux vaisseaux que l'on aurait pu construire, à l'époque. Ils communiquent entre eux — radio, laser, porteuses à neutrinos — et parfois leurs voix ont des traits communs avec les nôtres. À une époque nous avions le courage de penser qu'ils étaient vraiment semblables à nous, que la boucle avait été bouclée de nouveau, et qu'elle s'était achevée sur des êtres avec lesquels on pouvait parler. J'ai perdu le compte des fois où nous avons tenté un contact.
-
-J'ai perdu le compte des années qui se sont écoulées depuis qu'on a abandonné cette idée.
-
-Toutes ces répétitions, disparaissant derrière nous. Tous ces hybrides, ces post-humains, ces immortels, ces dieux, ces hommes des cavernes catatoniques enfermés dans leurs chariots magiques qu'ils ne pourront jamais comprendre, et pas un seul d'entre eux n'a jamais pointé son laser de communication vers pour dire "Hé, comment ça va?", ou "Devinez quoi, on a soigné la maladie de Damas", ou encore "Merci les gars, continuez comme ça".
-
-Nous ne sommes pas un putain de culte du cargo. Nous sommes la colonne vertébrale de votre saloperie d'empire. Vous ne seriez pas ici, si ce n'était pas grâce à nous.
-
-Et — et c'est vous qui êtes nos enfants. Quoi que vous soyez devenus, vous avez été comme nous, comme moi. Il fût un temps où je croyais en vous. Il fût une époque, il y a très longtemps, où je croyais en cette mission de tout mon coeur.
-
-Pourquoi nous avez-vous abandonnés?
-
-
-		* * *
 
 
 
@@ -156,7 +66,7 @@ Pourquoi nous avez-vous abandonnés?
 
 Cette fois j'ouvre mes yeux sur une figure qui me semble familière mais que je n'ai jamais vue auparavant: un jeune garçon, arrivant sur ses 20 ans peut être, physiologiquement en tout cas. Sa figure est un peu de travers, les joues plus aplaties à gauche qu'à droite. Ses yeux sont trop gros. Il ferait presque naturel.
 
-Je n'ai pas parlé depuis des millénaires. Ma voix sort comme un chuchotement: "Qui êtes-vous?" Pas vraiment ce que je suis censée demander, je sais. Pas la première question que qui que ce soit poserait sur Eriophora, juste après son retour.
+Je n'ai pas parlé depuis des millénaires. Ma voix sort comme un chuchotement: "Qui êtes-vous?" Pas vraiment ce que je suis censée demander, je sais. Pas la première question que qui que ce soit poserait sur Ériophora, juste après son retour.
 
 "Je suis de toi", répond-t-il, et, comme ça, je suis maman.
 
@@ -170,9 +80,9 @@ Donc Chimp est encore au commandes. Chimp est toujours aux commandes. La mission
 
 Je me demande depuis combien de temps il est né. Je me demande s'il n'a jamais pensé à moi, avant aujourd'hui.
 
-Il ne me le dira pas. Il me dit seulement, "Le soleil et devant nous. Une demi année lumière. Chimp pense qu'il essaye nous parler. De toute façon..." Mon — fils hausse les épaules. "Pas de précipitation. On a tout le temps."
+Il ne me le dira pas. Il me dit seulement, "Le soleil et devant nous. Une demi année lumière. Chimp pense qu'il essaye nous parler. De toute façon..." Mon... fils hausse les épaules. "Pas de précipitation. On a tout le temps."
 
-J'acquiesce, mais il hésite. Il attend La Question mais je vois déjà le début d'une réponse à sa tête. Nos renforts étaient censés être touts neufs, construits sur la base de gènes parfaits enterrés profondément dans le manteau basalto-ferreux d'Eri; en sécurité face aux rayons durs dus au décalage vers le bleu. Et pourtant ce garçon a des défauts. Je vois les dommages sur sa figure, je vois ces petites paires de bases torsadées résonner depuis leur monde microscopique, le tordant juste un peu trop. Il semble avoir grandi sur une planète. Il a l'air né de parents qui ont passé leur vie sous la lumière brute d'une étoile.
+J'acquiesce, mais il hésite. Il attend La Question mais je vois déjà le début d'une réponse à sa tête. Nos renforts étaient censés être touts neufs, construits sur la base de gènes parfaits enterrés profondément dans le manteau basalto-ferreux d'Éri; en sécurité face aux rayons durs dus au décalage vers le bleu. Et pourtant ce garçon a des défauts. Je vois les dommages sur sa figure, je vois ces petites paires de bases torsadées résonner depuis leur monde microscopique, le tordant juste un peu trop. Il semble avoir grandi sur une planète. Il a l'air né de parents qui ont passé leur vie sous la lumière brute d'une étoile.
 
 À quelle distance doit-t-on être maintenant, si même nos plus purs blocs de construction ont dépérit ainsi? Combien de temps cela nous a-t-il pris? Combien de temps suis-je morte?
 
@@ -185,9 +95,42 @@ Après aussi longtemps, je ne veux plus le savoir.
 
 
 
-﻿Lorsque j'arrive sur le pont, il est seul devant les écrans, les yeux pleins d'icônes et de trajectoires. Je vois peut être un peu de moi dans ses gestes.
+﻿Et ainsi, une autre construction commence.
 
-"Je n'ai pas saisi ton prénom", demandais-je, même si je l'avais déjà trouvé dans le manifeste. À peine a-t-on été présenté que je suis déjà entrain de lui mentir.
+Cette fois j'ouvre mes yeux sur une figure qui me semble familière mais que je n'ai jamais vue auparavant: un jeune garçon, arrivant sur ses 20 ans peut être, physiologiquement en tout cas. Sa figure est un peu de travers, les joues plus aplaties à gauche qu'à droite. Ses yeux sont trop gros. Il ferait presque naturel.
+
+Je n'ai pas parlé depuis des millénaires. Ma voix sort comme un chuchotement: "Qui êtes-vous?" Pas vraiment ce que je suis censée demander, je sais. Pas la première question que qui que ce soit poserait sur Ériophora, juste après son retour.
+
+"Je suis de toi", répond-t-il, et, comme ça, je suis maman.
+
+Je voudrais digérer ça, mais il ne m'en laisse pas le temps: "Tu n'étais pas prévue, mais Chimp veut du renfort sur le pont. La prochaine construction présente un soucis."
+
+Donc Chimp est encore au commandes. Chimp est toujours aux commandes. La mission suit son cours.
+
+"Situation?", je demande.
+
+"Scénario de rencontre, peut-être."
+
+Je me demande depuis combien de temps il est né. Je me demande s'il n'a jamais pensé à moi, avant aujourd'hui.
+
+Il ne me le dira pas. Il me dit seulement, "Le soleil et devant nous. Une demi année lumière. Chimp pense qu'il essaye nous parler. De toute façon..." Mon... fils hausse les épaules. "Pas de précipitation. On a tout le temps."
+
+J'acquiesce, mais il hésite. Il attend La Question mais je vois déjà le début d'une réponse à sa tête. Nos renforts étaient censés être touts neufs, construits sur la base de gènes parfaits enterrés profondément dans le manteau basalto-ferreux d'Éri; en sécurité face aux rayons durs dus au décalage vers le bleu. Et pourtant ce garçon a des défauts. Je vois les dommages sur sa figure, je vois ces petites paires de bases torsadées résonner depuis leur monde microscopique, le tordant juste un peu trop. Il semble avoir grandi sur une planète. Il a l'air né de parents qui ont passé leur vie sous la lumière brute d'une étoile.
+
+À quelle distance doit-t-on être maintenant, si même nos plus purs blocs de construction ont dépérit ainsi? Combien de temps cela nous a-t-il pris? Combien de temps suis-je morte?
+
+Combien de temps? C'est ça la question que tout le monde pose en premier.
+
+Après aussi longtemps, je ne veux plus le savoir.
+
+
+		* * *
+
+
+
+Lorsque j'arrive sur le pont, il est seul devant les écrans, les yeux pleins d'icônes et de trajectoires. Je vois peut être un peu de moi dans ses gestes.
+
+"Je n'ai pas saisi ton prénom", demandais-je, même si je l'avais déjà trouvé dans le manifeste. À peine a-t-on été présenté que je suis déjà en train de lui mentir.
 
 "Dixon.", répond-t-il, tout en gardant ses yeux sur l'hologramme.
 
@@ -205,7 +148,7 @@ Dix acquiesce. "Pour le moment. On ramènera plus de monde si besoin. Mais..." S
 
 Je le rejoins à l'hologramme. Des forme semi-transparentes sont suspendues comme une fumée gelée, avec des codes-couleur. Nous sommes sur le bord d'un nuage de poussière moléculaire. Chaud, semi-organique, plein de matériaux de base: formaldéhyde, éthylène-glycol, les prébiotes usuels. Un bon emplacement pour une construction rapide. Une naine rouge brille au centre de l'holo. Chimp l'a nommée DHF428, pour des raisons dont j'ai oublié de prêter attention depuis longtemps.
 
-"Alors, met moi au courant", dis-je.
+"Alors, mets-moi au courant", dis-je.
 
 Son regard est impatient, irrité même. "Toi aussi?"
 
@@ -215,7 +158,7 @@ Son regard est impatient, irrité même. "Toi aussi?"
 
 Merde, son lien est encore actif. Il est connecté.
 
-J'ai un sourire forcé. "C'est juste une — une tradition, j'imagine. On parle de beaucoup de choses, ça nous aide à — nous reconnecter. Après avoir été débranché si longtemps."
+J'ai un sourire forcé. "C'est juste une — une tradition culturelle, j'imagine. On parle de beaucoup de choses, ça nous aide à — nous reconnecter. Après avoir été débranché si longtemps."
 
 "Mais c'est lent", se plaint-t-il.
 
@@ -223,18 +166,14 @@ Il ne sait pas. Pourquoi ne sait-il pas?
 
 "On a encore une demi année-lumière", lui fais-je remarquer. "Il y a urgence?"
 
-Le coin de sa bouche tressaille. "Les Neumanns sont partis à l'heure." Pour confirmer, un nuage de points violets clignote dans l'hologramme, cinq trillion de kilomètres devant nous. "Encore entrain d'aspirer de la poussière pour la plupart, mais ils ont été chanceux en tombant sur deux gros astéroïdes, et les raffineries ont été finies en avance. Premiers composants déjà extrudés. Mais Chimp a vu ces fluctuations dans l'apport de lumière — principalement infrarouge, mais qui s'étend au visible." L'hologramme commence à clignoter: la naine rouge passe en accéléré.
+Le coin de sa bouche tressaille. "Les Neumanns sont partis à l'heure." Pour confirmer, un nuage de points violets clignote dans l'hologramme, cinq trillion de kilomètres devant nous. "Encore en train d'aspirer de la poussière pour la plupart, mais ils ont été chanceux en tombant sur deux gros astéroïdes, et les raffineries ont été finies en avance. Premiers composants déjà extrudés. Mais Chimp a vu ces fluctuations dans l'apport de lumière — principalement infrarouge, mais qui s'étend au visible." L'hologramme commence à clignoter: la naine rouge passe en accéléré.
 
 Effectivement, ça clignote.
 
 "Pas aléatoire, je suppose."
 
 Dix incline sa tête un peu sur le côté, presque pour acquiescer. 
-
 "Trace un graphe temporel." Je n'ai jamais pu m'empêcher d'hausser le ton, juste un peu, quand je m'adresse à Chimp. Obéissante (Obéissante. C'en est presque comique), l'IA efface le panorama spatial pour le remplacer par ceci:
-
-.... .  .  .    .      .        .            .                .                     .                           .                            .
-
 
 "Séquence répétitive", me dit Dix. "Les bips ne changent pas, mais l'espacement croît de manière log-linéaire, boucle toutes les 92.5 secondes. Chaque cycle démarre à 13.2 bips/s, et diminue dans le temps." 
 
@@ -268,7 +207,7 @@ Je refoule un reniflement. "Si tu es aussi inquiet pour tes performances sur cet
 
 "Je ne peux pas", admet-il. "Je n'ai pas assez d'informations."
 
-"Tu n’en a aucune. À propos d'une chose qui pourrait probablement stopper net cette mission s'il elle voulait. Alors on devrait peut-être essayer d'en acquérir."
+"Tu n’en a aucune. À propos d'une chose qui pourrait probablement stopper net cette mission si elle voulait. Alors on devrait peut-être essayer d'en acquérir."
 
 "D'accord. Neumanns réassignés."
 
@@ -291,17 +230,17 @@ Pas moi.
 
 
 
-﻿C'est comme s'il n'était jamais parti. Je remonte sur le pont et il est là, absorbé par les écrans. DHF428 occupe tout l'hologramme, une grosse orbe rouge, transformant les traits de mon fils en un masque de démon.
+C'est comme s'il n'était jamais parti. Je remonte sur le pont et il est là, absorbé par les écrans. DHF428 occupe tout l'hologramme, une grosse orbe rouge, transformant les traits de mon fils en un masque de démon.
 
 Il m'accorde un rapide coup d'oeil, les yeux ronds, ses doigts animés comme s'ils étaient électrifiés. "Les Neumanns ne le voient pas."
 
 Je suis encore un peu vaseuse du dégel. "Voir qu—"
 
 "La séquence!" Sa voix est au bord de la panique. Il oscille d'avant en arrière, répartissant son poids d'un pied à l'autre.
-
+//
 "Montre moi."
 
-Les écrans se séparent en deux. Deux naines identiques brulent devant moi maintenant, chacune peut-être deux fois la taille de mon poing. À gauche, la vue depuis Eri: DHF428 bégaie comme elle le faisait auparavant, comme elle l'a probablement fait durant les dix derniers mois. Sur la droite, une vue composée: une grille d'interférences construite par une myriade de Neumanns espacés précisément, leurs yeux rudimentaires empilés et parallaxés donnant quelque chose qui approche la haute définition. Le contraste, des deux côtés, a été adapté pour souligner les clins d'oeil de la naine à un oeil humain.
+Les écrans se séparent en deux. Deux naines identiques brulent devant moi maintenant, chacune peut-être deux fois la taille de mon poing. À gauche, la vue depuis Éri: DHF428 bégaie comme elle le faisait auparavant, comme elle l'a probablement fait durant les dix derniers mois. Sur la droite, une vue composée: une grille d'interférences construite par une myriade de Neumanns espacés précisément, leurs yeux rudimentaires empilés et parallaxés donnant quelque chose qui approche la haute définition. Le contraste, des deux côtés, a été adapté pour souligner les clins d'oeil de la naine à un oeil humain.
 
 À part que ça ne cligne que du côté gauche de l'écran. Sur la droite, 428 brille normalement, telle une simple bougie.
 
@@ -321,13 +260,13 @@ Les écrans se séparent en deux. Deux naines identiques brulent devant moi main
 
 "Une sorte de filtre." Dix se relaxe un peu. "Est-ce qu'on ne l'aurait pas déjà vu? Les Neumanns l'auraient heurté sur leur route?"
 
-Je remet ma voix en mode CommChimp. "Quel est le champ de vision du télescope d'Eri?"
+Je remet ma voix en mode CommChimp. "Quel est le champ de vision du télescope d'Éri?"
 
 "Dix-huit minutes d’arc," m'apprend Chimp. "Au niveau de 428, le cône fait trois point trente quatre secondes-lumières de large."
 
 "Agrandis à cent secondes-lumière."
 
-La moitié d’image provenant d'Eri s'agrandit alors, oblitérant le point de vue dissident. Un instant, le soleil remplit de nouveau l'intégralité de l'hologramme, peignant le pont d'une couleur cramoisi. Puis il fond, comme dévoré de l'intérieur.
+La moitié d’image provenant d'Éri s'agrandit alors, oblitérant le point de vue dissident. Un instant, le soleil remplit de nouveau l'intégralité de l'hologramme, peignant le pont d'une couleur cramoisi. Puis il fond, comme dévoré de l'intérieur.
 
 Je remarque un peu de flou dans l'image. "Est-ce que tu peux nettoyer le bruit?"
 
@@ -366,7 +305,7 @@ Le linceul autour de 428 s'éclaire alors comme les ailes d'une libellule, comme
 
 
 
-﻿Phéophytine et eumélanine, nous confirme le spectro. Il y a même quelques traces de pigments de Keiper basés sur du plomb, se nourrissant des rayons X dans la zone du pico mètre. Chimp extrapole quelque chose appelé un chromatophore: des cellules branchées les unes aux autres, avec chacune des grains de pigments à l'intérieur, comme des particules de poussière de charbon. Gardez ces particules ensemble et la cellule est effectivement transparente; étalez-les sur la bordure du cytoplasme, et la cellule s'assombrit, occultant les ondes EM qui passent au travers. Apparemment il y avait sur terre des animaux ayant ce genre de cellules. Ils pouvaient changer de couleur, se fondre dans le paysage, toutes ces sortes de choses.
+Phéophytine et eumélanine, nous confirme le spectro. Il y a même quelques traces de pigments de Keiper basés sur du plomb, se nourrissant des rayons X dans la zone du pico mètre. Chimp extrapole quelque chose appelé un chromatophore: des cellules branchées les unes aux autres, avec chacune des grains de pigments à l'intérieur, comme des particules de poussière de charbon. Gardez ces particules ensemble et la cellule est effectivement transparente; étalez-les sur la bordure du cytoplasme, et la cellule s'assombrit, occultant les ondes EM qui passent au travers. Apparemment il y avait sur terre des animaux ayant ce genre de cellules. Ils pouvaient changer de couleur, se fondre dans le paysage, toutes ces sortes de choses.
 
 "Donc il y a une membrane de— de tissu vivant autour de cette étoile," dis-je, essayant de m'approprier le concept. "Un, un ballon de viande. Autour de cette fichue étoile."
 
@@ -386,7 +325,7 @@ Le linceul autour de 428 s'éclaire alors comme les ailes d'une libellule, comme
 
 Ça ne peut pas être trop familier. Aucun gène conventionnel ne tiendrait plus de deux secondes dans cet environnement. Sans même parler du solvant miracle que cette chose doit utiliser comme antigel...
 
-"Ok, restons dans les normes alors. Disons, épaisseur moyenne d'un millimètres. En supposant la densité égale à l'eau aux TP normaux. Combien pèserais cette chose?"
+"Ok, restons dans les normes alors. Disons, épaisseur moyenne d'un millimètre. En supposant la densité égale à l'eau aux TP normaux. Combien pèserait cette chose?"
 
 "1.4 yottagramme," répondent Dix et Chimp, presque à l'unisson.
 
@@ -445,7 +384,7 @@ Et je pense que ce n'est destiné à personne d'autre qu'à nous.
 
 
 
-﻿On crie en retour. Aucune raison de ne pas le faire. Et ensuite nous mourrons de nouveau, pourquoi rester debout plus longtemps? Que cette entité soit réellement intelligente ou pas, notre signal ne l'atteindra pas avant dix millions de secondes. Et encore 7 millions de plus, au mieux, avant qu'on ne reçoive la réponse qu'il pourrait envoyer.
+On crie en retour. Aucune raison de ne pas le faire. Et ensuite nous mourrons de nouveau, pourquoi rester debout plus longtemps? Que cette entité soit réellement intelligente ou pas, notre signal ne l'atteindra pas avant dix millions de secondes. Et encore 7 millions de plus, au mieux, avant qu'on ne reçoive la réponse qu'il pourrait envoyer.
 
 Autant retourner à la crypte en attendant. Éteindre tous les désirs, tous les soupçons, garder le reste de vie que j'ai pour les moments importants. Me retirer de cette pauvre intelligence tactique, de ce petit garçon aux yeux mouillés, qui me regarde comme si j'étais une sorte de sorcière sur le point de disparaître dans un nuage de fumée. Il ouvre sa bouche pour dire quelque chose, mais je m’empresse de lui tourner le dos et me précipite en bas, vers le sommeil.
 
@@ -459,11 +398,11 @@ Il y a quand même quelque chose de —réconfortant, j'imagine— à propos de 
 
 Après toutes ces attaques et contre-attaques, la vérité, c'est qu'on a besoin l'un de l'autre.
 
-Et donc, je chasse l'odeur d'oeuf pourri de mes cheveux et je sors dans les couloirs au silence de cathédrale d'Eri. L'ennemi est là, dans le noir, allumant les lumières à mon approche et les éteignant derrière moi— mais il ne fait pas le premier pas.
+Et donc, je chasse l'odeur d'oeuf pourri de mes cheveux et je sors dans les couloirs au silence de cathédrale d'Éri. L'ennemi est là, dans le noir, allumant les lumières à mon approche et les éteignant derrière moi— mais il ne fait pas le premier pas.
 
 Dix.
 
-Un vrai bizarroïde, celui là. Pas que vous espéreriez que quelqu'un né et élevé sur Eriophora soit un modèle de santé mentale, mais Dix ne sait même pas de quel côté il est. Il ne semble même pas au courant qu'il doit choisir un camp. C'est comme s'il avait lu l'ordre de mission originel et l'avait pris au sérieux, avait cru à la vérité inscrite sur les parchemins anciens: Mammifères et Machines, travaillant ensemble au travers des âges pour explorer l'Univers! Unis! Forts! Repoussant les Frontières!
+Un vrai bizarroïde, celui là. Pas que vous espéreriez que quelqu'un né et élevé sur Ériophora soit un modèle de santé mentale, mais Dix ne sait même pas de quel côté il est. Il ne semble même pas au courant qu'il doit choisir un camp. C'est comme s'il avait lu l'ordre de mission originel et l'avait pris au sérieux, avait cru à la vérité inscrite sur les parchemins anciens: Mammifère et Machine, travaillant ensemble au travers des âges pour explorer l'Univers! Unis! Forts! Repoussant les Frontières!
 
 Raaah.
 
@@ -487,7 +426,7 @@ Peut être. Ou bien peut-être que Chimp a raison, peut-être que c'est purement
 
 "Ralentis la série," lui ordonné-je. "D'un facteur cent."
 
-C'est un clignotement. Le disque de 428 ne s'occulte pas uniformément, il s'éclipse. Comme si une grand paupière était tirée sur toute la surface du soleil, de droite à gauche.
+C'est un clignotement. Le disque de 428 ne s'occulte pas uniformément, il s'éclipse. Comme si une grande paupière était tirée sur toute la surface du soleil, de droite à gauche.
 
 "Facteur mille."
 
@@ -503,7 +442,7 @@ La vitesse d'une pensée.
 
 Et si cette chose pense vraiment, elle doit avoir des portes logiques, des synapses —il doit y avoir une sorte de réseau. Et si le réseau est assez grand, il y a un "moi" juste au milieu. Comme moi, comme Dix. Comme Chimp. (Ce qui explique que je me sois renseignée sur le sujet, à l'époque des débuts tumultueux de notre relation. Connais ton ennemi, tout ça.)
 
-Le truc avec le "moi", c'est qu'il n'existe que pendant un dixième de seconde partout à la fois. Quand nous nous étalons trop — quand quelqu'un coupe notre cerveau en deux, disons en sectionnant le corps calleux de manière à ce que chaque hémisphère doivent prendre le long trajet pour parler à l'autre; quand la structure neurale se délaye au delà d'un certain point et que les signaux prennent trop longtemps pour passer de A à B— le système se désynchronise. Les deux lobes du cerveau deviennent des gens différents, avec des goûts différents, des emplois du temps différents, une conscience propre différente.
+Le truc avec le "moi", c'est qu'il n'existe que pendant un dixième de seconde partout à la fois. Quand nous nous étalons trop — quand quelqu'un coupe notre cerveau en deux, disons en sectionnant le corps calleux de manière à ce que chaque hémisphère doit prendre le long trajet pour parler à l'autre; quand la structure neurale se délaye au delà d'un certain point et que les signaux prennent trop longtemps pour passer de A à B— le système se désynchronise. Les deux lobes du cerveau deviennent des gens différents, avec des goûts différents, des emplois du temps différents, une conscience propre différente.
 
 Le "moi" devient "nous".
 
@@ -511,7 +450,7 @@ Ce n'est pas une règle humaine, ou une loi des mammifères, encore moins une in
 
 Cinquante neuf mille kilomètres seconde, a dit Chimp. Quelle distance peut parcourir un signal sur cette membrane en un dixième de seconde? Sur quelle étendue s'étale ce "moi" parmi les étoiles?
 
-La corps est énorme, la corps est inconcevable. Mais l'esprit, lui—
+Le corps est énorme, le corps est inconcevable. Mais l'esprit, lui—
 
 Merde.
 
@@ -525,7 +464,7 @@ Bien sûr, ce que cette chose utilise comme neurones doit être bien moins dense
 
 Ok, disons que ça a seulement un dix-millième de la densité synaptique, ça fait encore—
 
-Un cent millième. Une simple petite brume de matière pensante. Plus étalé et ne pourrait plus considérer la chose comme existante.
+Un cent-millième. Une simple petite brume de matière pensante. Plus étalé et ne pourrait plus considérer la chose comme existante.
 
 Encore vingt mille milliards de cerveaux humains. Vingt mille milliards.
 
@@ -538,7 +477,7 @@ Mais je ne suis pas encore prête à croire à l'existence des Dieux.
 
 
 
-﻿Je tourne au bout du couloir et heurte Dix, debout immobile comme un golem au milieu de mon salon. Je fais un saut de un mètre en l'air.
+Je tourne au bout du couloir et heurte Dix, debout immobile comme un golem au milieu de mon salon. Je fais un saut de un mètre en l'air.
 
 "Qu'est ce que tu fous ici?"
 
@@ -562,7 +501,7 @@ Cette putain de machine.
 
 "Et pourquoi toi tu es réveillée?" me demande-t-il, restant planté là.
 
-Je soupire, capitulant, et je m'effondre dans le premier siège à ma portée. "Je voulais juste faire une passe sur les données préliminaires." Le mot "seule" implicite devrait être évident.
+Je soupire, capitulant, et je m'effondre dans le premier siège à ma portée. "Je voulais juste faire une passe sur les données préliminaires." Le mot "seule", implicite, devrait être évident.
 
 "Et alors?"
 
@@ -618,15 +557,15 @@ J'écarte les bras. "Okay, c'est pas un chimpanzé. On l'appelle comme ça parce
 
 "Donc vous lui donnez un petit cerveau, et ensuite vous vous plaignez qu'il soit stupide à longueur de journée."
 
-Ma patience est pratiquement épuisée. "Est-ce que tu as quelque chose à dire, ou bien tu expire juste du CO2 pour—"
+Ma patience est pratiquement épuisée. "Est-ce que tu as quelque chose à dire, ou bien tu expires juste du CO pour—"
 
 "Pourquoi ne pas le faire plus intelligent?"
 
-"Parce qu'on ne peu jamais prédire le comportement d'un système plus compliqué que nous. Et si tu veux qu'un projet reste sur les rails après que tu sois parti, tu ne laisse pas les rênes à quelque chose qui va développer ses propres motivations." Bordel de merde, je pensais que quelqu'un lui avait parlé de la loi d'Ashby.
+"Parce qu'on ne peut jamais prédire le comportement d'un système plus compliqué que nous. Et si tu veux qu'un projet reste sur les rails après que tu sois parti, tu ne laisses pas les rênes à quelque chose qui va développer ses propres motivations." Bordel de merde, je pensais que quelqu'un lui avait parlé de la loi d'Ashby.
 
 "Donc ils l'ont lobotomisé," commente Dix après un moment.
 
-"Non. Ils ne l'ont pas rendu stupide, ils l'on construit comme cela."
+"Non. Ils ne l'ont pas rendu stupide, ils l'ont construit comme cela."
 
 "Peut être plus intelligent que tu ne le crois. Puisque tu es si intelligente, puisque tu as tes motivations propres, pourquoi est-il encore aux commandes?"
 
@@ -638,7 +577,7 @@ Je laisse échapper un sinistre sourire. "Tu ne fais que suivre les ordres d'un 
 
 "Non je ne— Je suis des ordres?—"
 
-"Je suis désolé mon cher." Je souris amicalement à ma descendance idiote. "Je ne parlais pas à toi. Je parlais à la chose qui fait sortir tous ces sons de ta bouche."
+"Je suis désolée mon cher." Je souris amicalement à ma descendance idiote. "Je ne parlais pas à toi. Je parlais à la chose qui fait sortir tous ces sons de ta bouche."
 
 Dix devient plus blanc que mes culottes.
 
@@ -656,13 +595,13 @@ Je dégèle un peu ma voix. Je parle gentiment: "Tu peux le faire aussi, tu sais
 
 La panique prend place sur ses traits, et contre toute attente, ça me brise le coeur. "Je peux pas," plaide-t-il. "Grâce à ça j'apprends, grâce à ça je m'entraîne. La mission..."
 
-Je ne sais pas lequel est entrain de parler, donc je répond aux deux: "Il y a plus d'une façon de procéder à la mission. On a plus de temps qu'il n'en faut pour les essayer toutes. Dix sera le bienvenu ici quand il sera tout seul."
+Je ne sais pas lequel est en train de parler, donc je réponds aux deux: "Il y a plus d'une façon de procéder à la mission. On a plus de temps qu'il n'en faut pour les essayer toutes. Dix sera le bienvenu ici quand il sera tout seul."
 
-Ils font un pas dans ma direction. Un autre. Une main, tressautante, monte de leurs côté gauche, comme pour saisir quelque chose, et il y a quelque chose sur cette figure de travers que je n'arrive pas à reconnaître.
+Ils font un pas dans ma direction. Un autre. Une main, tressautante, monte de leur côté gauche, comme pour saisir quelque chose, et il y a quelque chose sur cette figure de travers que je n'arrive pas à reconnaître.
 
 "Mais je suis ton fils," disent-ils.
 
-Je ne daigne même pas dénier cela devant eux.
+Je ne daigne même pas nier cela devant eux.
 
 "Sortez de mes quartiers."
 
@@ -671,17 +610,17 @@ Je ne daigne même pas dénier cela devant eux.
 
 
 
-﻿Un périscope humain. Dix, le cheval de Troie. Ça c'est nouveau.
+Un périscope humain. Dix, le cheval de Troie. Ça c'est nouveau.
 
-Chimp n'a jamais tenté une infiltration aussi manifeste alors que nous étions éveillés auparavant. Habituellement, il attend que l'on soit tous en mode zombie pour envahir nos territoires. J'imagine des robots faits-maison que nos yeux d'humains n'ont jamais observés, parqués ensembles durant les siècles sombres qui séparent deux constructions; je les imagine renifler les meubles et inspecter le revers des miroirs, mitrailler la coque aux rayons X et aux ultrasons, cherchant patiemment dans les catacombes d'Eriophora, millimètre par millimètres, les messages secrets que nous pourrions nous envoyer à travers le temps.
+Chimp n'a jamais tenté une infiltration aussi manifeste alors que nous étions éveillés auparavant. Habituellement, il attend que l'on soit tous en mode zombie pour envahir nos territoires. J'imagine des robots faits-maison que nos yeux d'humains n'ont jamais observés, parqués ensembles durant les siècles sombres qui séparent deux constructions; je les imagine renifler les meubles et inspecter le revers des miroirs, mitrailler la coque aux rayons X et aux ultrasons, cherchant patiemment dans les catacombes d'Ériophora, millimètre par millimètre, les messages secrets que nous pourrions nous envoyer à travers le temps.
 
 Il n'y a pas de preuves. Nous avons laissé des pièges et des signes pour nous alerter de l'intrusion à postériori, mais il n'y a jamais eu de preuves que quoi que ce soit ait été dérangé. Cela ne signifie rien, bien sûr. Chimp est peut être stupide, mais il est aussi fourbe, et un million d'années, c'est plus qu'assez pour essayer toutes les possibilités unes à unes, par la force brute. Documenter chaque mouton de poussière; commettre l'acte ignoble; et ensuite tout remettre en place comme c'était avant.
 
-Nous sommes trop intelligents pour nous risquer à parler durant ces périodes. Pas de stratégies cachées, par le lettre d'amour à longue distance, par de cartes postales montrant d'anciens panoramas perdus depuis longtemps dans l'effet Doppler. Nous gardons tout cela dans nos têtes, là où l'ennemi ne les trouvera jamais. La règle que nous n'énonçons jamais et celle qui dit qu'on ne parle jamais, à part face à face.
+Nous sommes trop intelligents pour nous risquer à parler durant ces périodes. Pas de stratégies cachées, pas de lettre d'amour à longue distance, pas de cartes postales montrant d'anciens panoramas perdus depuis longtemps dans l'effet Doppler. Nous gardons tout cela dans nos têtes, là où l'ennemi ne les trouvera jamais. La règle que nous n'énonçons jamais et celle qui dit qu'on ne parle jamais, à part face à face.
 
-Ce sont des jeux bête et sans fin. Parfois j'oublie presque ce pour quoi on se chamaille. Ça semble si trivial, maintenant, avec un immortel comme cible.
+Ce sont des jeux bêtes et sans fin. Parfois j'oublie presque ce pour quoi on se chamaille. Ça semble si trivial, maintenant, avec un immortel comme cible.
 
-Peut-être que cela ne signifie rien pour vous. L'immortalité, ça doit être du réchauffé pour vous qui avez certainement conquis d'autres sommets depuis. Mais moi je ne peux même pas l'imaginer, même si j'ai vécu plus longtemps que certains mondes. Tout ce que j'ai, ce sont des moments: deux ou trois siècles, à rationner sur l'étendue de la vie d'un univers. Je pourrais observer n'importe quel instant de l'histoire, ou peut être des centaines— des milliers, si je découpe ma vie en assez petits bouts— mais je n'en verrais jamais l'intégralité. Je n'en verrais jamais ne serait-ce qu'une fraction.
+Peut-être que cela ne signifie rien pour vous. L'immortalité, ça doit être du réchauffé pour vous qui avez certainement conquis d'autres sommets depuis. Mais moi je ne peux même pas l'imaginer, même si j'ai vécu plus longtemps que certains mondes. Tout ce que j'ai, ce sont des moments: deux ou trois siècles, à rationner sur l'étendue de la vie d'un univers. Je pourrais observer n'importe quel instant de l'histoire, ou peut être des centaines— des milliers, si je découpe ma vie en assez petits bouts— mais je n'en verrai jamais l'intégralité. Je n'en verrai jamais ne serait-ce qu'une fraction.
 
 Ma vie prendra fin un jour. Je dois choisir ces moments.
 
@@ -701,7 +640,7 @@ Ce n'est pas notre vaisseau, bien sûr. C'est ce que nous construisons. La naiss
 
 Une des raisons, en tout cas.
 
-On ne peut plus s'arrêter, bien sûr. Même changer de cap n'est pas une option, excepté pour les plus petites corrections. Eri file comme un aigle parmi les étoiles, mais elle tourne comme un cochon qui hâle; modifiez notre cap même d'un petit dixième de degré et vous allez au devant de sérieux dégâts à vingt pour-cent de la vitesse de la lumière. Un demi degré nous déchirerait en morceaux: le vaisseau prendrait le nouveau cap, mais la masse dense dans son ventre continuerait sur sa route originelle, passant au travers de toutes les superstructures environnantes sans même s'en rendre compte.
+On ne peut plus s'arrêter, bien sûr. Même changer de cap n'est pas une option, excepté pour les plus petites corrections. Éri file comme un aigle parmi les étoiles, mais elle tourne comme un cochon qui hâle; modifiez notre cap même d'un petit dixième de degré et vous allez au devant de sérieux dégâts à vingt pour-cent de la vitesse de la lumière. Un demi degré nous déchirerait en morceaux: le vaisseau prendrait le nouveau cap, mais la masse dense dans son ventre continuerait sur sa route originelle, passant au travers de toutes les superstructures environnantes sans même s'en rendre compte.
 
 Même les plus dociles singularités ont leur propre allure. Elles n'aiment pas le changement.
 
@@ -710,11 +649,11 @@ Même les plus dociles singularités ont leur propre allure. Elles n'aiment pas 
 
 
 
-﻿Nous ressuscitons de nouveau, et l'Ile a changé sa musique.
+Nous ressuscitons de nouveau, et l'Île a changé sa musique.
 
-Elle a arrêté de nous demander de stopper stopper stopper au moment où notre laser a touché sa face. Maintenant, elle dit quelque chose de complètement différent: de sombres traits circulent sur sa peau, des flèches de pigments qui convergent vers une destination que l'on ne voit pas, comme des rayons pointant vers l'axe d'une roue de vélo. Le point de convergence lui-même est hors champ et implicite, loin de la toile de fond lumineuse de 428, mais il est assez facile d'extrapoler ce point à six secondes-lumière à tribord. Il y a quelque chose d'autre aussi: une ombre, à peu près circulaire, bougeant le long de ces lignes comme une goutte coulant le long d'un fil. Il migre aussi vers tribord, sors de l'écran de fortune de l'Ile, et renaît aux même coordonnées d'origine pour répéter son trajet.
+Elle a arrêté de nous demander de stopper stopper stopper au moment où notre laser a touché sa face. Maintenant, elle dit quelque chose de complètement différent: de sombres traits circulent sur sa peau, des flèches de pigments qui convergent vers une destination que l'on ne voit pas, comme des rayons pointant vers l'axe d'une roue de vélo. Le point de convergence lui-même est hors champ et implicite, loin de la toile de fond lumineuse de 428, mais il est assez facile d'extrapoler ce point à six secondes-lumière à tribord. Il y a quelque chose d'autre aussi: une ombre, à peu près circulaire, bougeant le long de ces lignes comme une goutte coulant le long d'un fil. Il migre aussi vers tribord, sors de l'écran de fortune de l'Île, et renaît aux même coordonnées d'origine pour répéter son trajet.
 
-Ces coordonnée: exactement là où notre trajectoire actuelle nous amènera à traverser la membrane dans quatre mois. Un dieu plissant les yeux serait capable de voir les poutres et les éléments de la construction en cours de l'autre côté, la grande Boucle Hawking, percée de myriade de trous, prenant forme.
+Ces coordonnées: exactement là où notre trajectoire actuelle nous amènera à traverser la membrane dans quatre mois. Un dieu plissant les yeux serait capable de voir les poutres et les éléments de la construction en cours de l'autre côté, la grande Boucle Hawking, percée de myriade de trous, prenant forme.
 
 Le message est si explicite que même Dix le voit. "Il veut qu'on bouge la porte..." et il y a une sorte de confusion dans sa voix. "Mais comment sait-il que ce qu'on construit en est une?"
 
@@ -724,7 +663,7 @@ Le message est si explicite que même Dix le voit. "Il veut qu'on bouge la porte
 
 Mais la figure de Dix se froisse, sceptique. "Donc elle voit un tas de robots la cogner. Des pièces détachées —même pas encore assemblées. Comment sait-elle que l'on construit quelque chose de dangereux?"
 
-Parce qu'elle est très, très, intelligente, espèce de gamin idiot. Est ce qu'il est si dur d'imaginer que cet, cet —organisme est un mot trop limité— peut tout simplement déterminer comment ces pièces à moitié montées s'assemblent, jeter un oeil sur nos outils primitifs et voir exactement là où ça va mener?
+Parce qu'elle est très, très, intelligente, espèce de gamin idiot. Est ce qu'il est si dur d'imaginer que cet, cet —organisme est un mot trop limité— peut tout simplement imaginer comment ces pièces à moitié montées s'assemblent, jeter un oeil sur nos outils primitifs et voir exactement là où ça va mener?
 
 
 "Peut-être que ce n'est pas la première porte qu'elle a vue," suggère Dix. "Vous pensez qu'il y a une autre porte dans le coin?"
@@ -737,7 +676,7 @@ Je secoue la tête. "On aurait déjà vu l'effet lentille."
 
 Et à chaque fois pour fuir nos propres enfants.
 
-Je calcule rapidement quelques chiffres. "Cent quatre vingt deux jours avant l’insémination. Si nous bougeons maintenant, on a seulement à modifier notre cap de quelques minute d’arc pour nous diriger vers les nouvelles coordonnées. Loin en dessous de la limite de sécurité. Les angles deviennent de plus en plus risqués à mesure que l'on attend, évidemment."
+Je calcule rapidement quelques chiffres. "Cent-quatre-vingt-deux jours avant l’insémination. Si nous bougeons maintenant, on a seulement à modifier notre cap de quelques minutes d’arc pour nous diriger vers les nouvelles coordonnées. Loin en dessous de la limite de sécurité. Les angles deviennent de plus en plus risqués à mesure que l'on attend, évidemment."
 
 "On ne peut pas faire ça," dit Chimp. "On raterait la porte de deux millions de kilomètres."
 
@@ -751,17 +690,17 @@ Je calcule rapidement quelques chiffres. "Cent quatre vingt deux jours avant l�
 
 "Ok, premièrement, il n'y a pas de doute sur cette chose. C'est juste devant tes yeux. Et notre cap actuel nous amène droit dessus."
 
-"Nous restons hors de tous les corps planétaires dans la zone d'orbite habitable. Nous n'avons repéré aucune trace locale de technologie de voyage spatial. La position actuelle de la construction remplis tous les critères conservatifs."
+"Nous restons hors de tous les corps planétaires dans la zone d'orbite habitable. Nous n'avons repéré aucune trace locale de technologie de voyage spatial. La position actuelle de la construction remplit tous les critères conservatifs."
 
-"Ça c'est parce que les gens qui ont définit tes critères n'ont jamais anticipé la présence d'une sphère de Dyson vivante!" Mais je suis entrain de gâcher ma salive, je le sais. Chimp peut bien reprendre ses équations un million de fois, si je n'ai pas d'endroit où placer une variable, qu'est ce qu'il y peut?
+"Ça c'est parce que les gens qui ont définit tes critères n'ont jamais anticipé la présence d'une sphère de Dyson vivante!" Mais je suis en train de gâcher ma salive, je le sais. Chimp peut bien reprendre ses équations un million de fois, si je n'ai pas d'endroit où placer une variable, qu'est ce qu'il y peut?
 
-Il y eût un temps, avant que les choses ne deviennent moches, où nous avions le droit de reprogrammer ces paramètres. Avant que nous découvrions que l'une des choses que les admins avaient anticipés étaient une mutinerie.
+Il y eût un temps, avant que les choses ne deviennent moches, où nous avions le droit de reprogrammer ces paramètres. Avant que nous découvrions que l'une des choses que les admins avaient anticipée étaient une mutinerie.
 
 J'essaye un autre angle. "Considère la menace potentielle."
 
 "Il n'y a aucune preuve de menace."
 
-"Mais regarde l'estimation du nombre de synapses! Cette chose a une capacité cognitive qui dépasse celle de la civilisation qui nous a envoyé ici de plusieurs ordres de grandeurs. Tu penses que quelque chose d'aussi intelligent vit aussi longtemps sans apprendre à se défendre? On suppose qu'il nous demande de déplacer la porte. Et si ce n'était pas une demande? Et si il nous donnait simplement la chance de reculer avant de prendre les choses en main lui même?"
+"Mais regarde l'estimation du nombre de synapses! Cette chose a une capacité cognitive qui dépasse celle de la civilisation qui nous a envoyé ici de plusieurs ordres de grandeurs. Tu penses que quelque chose d'aussi intelligent vit aussi longtemps sans apprendre à se défendre? On suppose qu'il nous demande de déplacer la porte. Et si ce n'était pas une requête? Et si il nous donnait simplement la chance de reculer avant de prendre les choses en main lui même?"
 
 "Il n'a pas de mains," remarque Dix, de l'autre côté de l'hologramme, sans aucune désinvolture. Il est simplement si stupide que j'ai envie de lui casser la figure.
 
@@ -775,36 +714,36 @@ J'essaye de ne pas crier "Peut être qu'il n'en a pas besoin."
 
 J'ai envie de lui crier: On ne peut pas savoir! Nous sommes coincés avec ce que l'on a déjà! Au moment où les Neumanns sur site auront terminé de construire ce dont nous avons besoin, on aura déjà passé le point de non-retour! Putain de machine stupide, on est sur le point de tuer un être plus intelligent que toute l'histoire de l'Humanité réunie, et tu ne peux même pas bouger ton autoroute sur l'espace vacant d'à côté?
 
-Main bien sûr si je dis cela, les chances de survie de l'Ile iront de peu probable à aucune. Donc je m'accroche à la seule branche qu'il me reste: peut-être que l'on peut se contenter des données que l'on possèdes déjà. Si l'acquisition n'est pas possible, peut-être que l'analyse suffira.
+Mais bien sûr si je dis cela, les chances de survie de l'Île iront de peu probable à aucune. Donc je m'accroche à la seule branche qu'il me reste: peut-être que l'on peut se contenter des données que l'on possède déjà. Si l'acquisition n'est pas possible, peut-être que l'analyse suffira.
 
 "J'ai besoin de temps," dis-je.
 
-"Bien sûr," me dis Chimp. "Prend tout le temps que tu souhaites."
+"Bien sûr," me dis Chimp. "Prends tout le temps que tu souhaites."
 
 
 		* * *
 
 
 
-﻿Chimp n'est pas assez content de tuer cette créature. Chimp se doit aussi de lui cracher dessus.
+Chimp n'est pas assez content de tuer cette créature. Chimp se doit aussi de lui cracher dessus.
 
-Sous prétexte de m'aider dans mes recherches, il essaie de déstructurer  l'ile, la casser en morceaux pour mieux la forcer à s'insérer dans des précédents Terriens. Il me parle de bactéries terrestres qui prospéraient sous 1,5 millions de rads et qui se moquaient du vide spatial. Il me montre des images de petits tardigrade invincibles qui sont capables de se recroqueviller et se placer en sommeil à l'approche du zéro absolu, qui se sentent chez eux aussi bien dans les tranchées au fond des océans qu'au plus profond de l'espace. Avec le temps, les opportunités, une escapade hors de la planète, qui sait jusqu'à où ces mignons petits invertébrés pourraient être allés? S'ils avaient survécu à la mort de leur planète d'origine, en se serrant les pouces, auraient-ils développé une attitude coloniale?
+Sous prétexte de m'aider dans mes recherches, il essaie de déstructurer  l'Île, la casser en morceaux pour mieux la forcer à s'insérer dans des précédents Terriens. Il me parle de bactéries terrestres qui prospéraient sous 1,5 millions de rads et qui se moquaient du vide spatial. Il me montre des images de petits tardigrade invincibles qui sont capables de se recroqueviller et se placer en sommeil à l'approche du zéro absolu, qui se sentent chez eux aussi bien dans les tranchées au fond des océans qu'au plus profond de l'espace. Avec le temps, les opportunités, une escapade hors de la planète, qui sait jusqu'à où ces mignons petits invertébrés pourraient être allés? S'ils avaient survécu à la mort de leur planète d'origine, en se serrant les pouces, auraient-ils développé une attitude coloniale?
 
 Quel ramassis de conneries.
 
-J'apprends ce que je peux. J'étudie l'alchimie qui permet à la photosynthèse de transformer la lumière, les gaz et les électrons en tissu vivant. J'assimile la physique des vents solaires qui gardent la bulle tendue, calcule les limites métaboliques qu'une forme de vie doit maintenir pour filtrer les composés organiques présents dans l'éther. Je m'émerveille de la vitesse à laquelle pense cette créature: pratiquement aussi vite que Eri vole, des ordres de grandeur plus rapidement que n'importe quelle impulsion nerveuse chez les mammifères. Une espèce de supraconducteur biologique peut-être, quelque chose qui laisse passer les électrons refroidis pratiquement sans résistance ici, dans le vide glacé.
+J'apprends ce que je peux. J'étudie l'alchimie qui permet à la photosynthèse de transformer la lumière, les gaz et les électrons en tissu vivant. J'assimile la physique des vents solaires qui gardent la bulle tendue, calcule les limites métaboliques qu'une forme de vie doit maintenir pour filtrer les composés organiques présents dans l'éther. Je m'émerveille de la vitesse à laquelle pense cette créature: pratiquement aussi vite que Éri vole, des ordres de grandeur plus rapidement que n'importe quelle impulsion nerveuse chez les mammifères. Une espèce de supraconducteur biologique peut-être, quelque chose qui laisse passer les électrons refroidis pratiquement sans résistance ici, dans le vide glacé.
 
-Je m'informe sur la plasticité phénotypique et sur l'adaptation laxiste, ce flou de l'évolution qui permet à des espèces d'exister dans des environnements étrangers et d'exprimer là certains traits dont elles n'ont jamais eu l'utilité jusqu'alors. Peut-être est-ce ainsi qu'une forme de vie à l'abri de tout prédateur peut acquérir des dents, des griffes, et la volonté de s'en servir. La survie de l'Ile tient à sa capacité à nous tuer; et je dois trouver quelque chose qui en fasse une menace pour nous.
+Je m'informe sur la plasticité phénotypique et sur l'adaptation laxiste, ce flou de l'évolution qui permet à des espèces d'exister dans des environnements étrangers et d'exprimer là certains traits dont elles n'ont jamais eu l'utilité jusqu'alors. Peut-être est-ce ainsi qu'une forme de vie à l'abri de tout prédateur peut acquérir des dents, des griffes, et la volonté de s'en servir. La survie de l'Île tient à sa capacité à nous tuer; et je dois trouver quelque chose qui en fasse une menace pour nous.
 
 Mais tout ce que je découvre, c'est l'impression de plus en plus tenace que je suis prédestinée à échouer —car la violence, je commence à le comprendre, et un phénomène planétaire.
 
-Les planètes sont les parents grossiers de l'évolution. Leurs surfaces elle-mêmes promeuvent la guerre, concentrent les ressources sur des zones dense et défendables, qui ne demandent qu'à être disputées. La gravité vous force à gâcher votre énergie dans un système vasculaire et dans un support squelettique, à monter la garde sans fin contre d'innombrables campagnes sadiques destinées à vous faire retourner contre le sol. Faites un faux-pas, hors de votre piédestal trop haut, et toute votre architecture sans prix s'effondre en un instant. Et même si vous réussissez, que vous pavez votre charpente de pesantes armures pour contrer votre lent retour à l'horizontale —combien de temps s'écoulera avant que le monde n'amène un astéroïde ou une comète à s'écraser depuis les étoiles et remette votre pendule à zéro? Est-ce si extraordinaire que l'on ait grandi en croyant que la vie est un combat permanent, que le jeu à somme nulle est la loi de Dieu lui-même et que le futur appartient à ceux qui écrasent la concurrence?
+Les planètes sont les parents grossiers de l'évolution. Leurs surfaces elles-mêmes promeuvent la guerre, concentrent les ressources sur des zones denses et défendables, qui ne demandent qu'à être disputées. La gravité vous force à gâcher votre énergie dans un système vasculaire et dans un support squelettique, à monter la garde sans fin contre d'innombrables campagnes sadiques destinées à vous faire retourner contre le sol. Faites un faux-pas, hors de votre piédestal trop haut, et toute votre architecture sans prix s'effondre en un instant. Et même si vous réussissez, que vous pavez votre charpente de pesantes armures pour contrer votre lent retour à l'horizontale —combien de temps s'écoulera avant que le monde n'amène un astéroïde ou une comète à s'écraser depuis les étoiles et remette votre pendule à zéro? Est-ce si extraordinaire que l'on ait grandi en croyant que la vie est un combat permanent, que le jeu à somme nulle est la loi de Dieu lui-même et que le futur appartient à ceux qui écrasent la concurrence?
 
-Les règles sont si différentes ici. La majorité de l'espace est tranquille: pas de marées, pas de saisons, par d'âges de glace ou de réchauffement climatiques, pas d'oscillations sauvages entre le chaud et le froid, entre calme et tempête. Les précurseurs de la vie abondent ici: sur les comètes, collant aux astéroïdes, se répandant parmi les nébuleuses sur des centaines d'années lumière. Les nuages luisent de leur chimie organique et de leurs radiations qui donnent la vie. Leurs vastes ailes poussiéreuses sont pleines de chaleur infrarouge, elles filtrent les rayons les plus dur, et donnent naissance à des pépinières que seul un réfugié rabougri d'un puits de gravité oserait désigner comme mortelles.
+Les règles sont si différentes ici. La majorité de l'espace est tranquille: pas de marées, pas de saisons, par d'âges de glace ou de réchauffements climatiques, pas d'oscillations sauvages entre le chaud et le froid, entre calme et tempête. Les précurseurs de la vie abondent ici: sur les comètes, collant aux astéroïdes, se répandant parmi les nébuleuses sur des centaines d'années lumière. Les nuages luisent de leur chimie organique et de leurs radiations qui donnent la vie. Leurs vastes ailes poussiéreuses sont pleines de chaleur infrarouge, elles filtrent les rayons les plus durs, et donnent naissance à des pépinières que seul un réfugié rabougri d'un puits de gravité comme la Terre oserait désigner comme mortelles.
 
-Darwin est une distraction ici, une curiosité hors-sujet. Cette ile donne tort à tout ce que l'on nous a jamais dit sur les rouages de la vie. Alimentée par le soleil, parfaitement adaptée, immortelle, elle n'a gagné aucune lutte pour la survie: où sont les prédateurs, les compétiteurs, les parasites? Tout la vie autour de 428 se résume à un vaste continuum, un grand acte de symbiose. La Nature, ici, n'est pas née du sang versé par des dents et des griffes. La Nature, là bas, est tendre.
+Darwin est une distraction ici, une curiosité hors-sujet. Cette Île donne tort à tout ce que l'on nous a jamais dit sur les rouages de la vie. Alimentée par le soleil, parfaitement adaptée, immortelle, elle n'a gagné aucune lutte pour la survie: où sont les prédateurs, les compétiteurs, les parasites? Tout la vie autour de 428 se résume à un vaste continuum, un grand acte de symbiose. La Nature, ici, n'est pas née du sang versé par des dents et des griffes. La Nature, là bas, est tendre.
 
-N'ayant pas la capacité d'user de violence, l'Ile a persisté plus longtemps que des mondes entiers. Sans être encombrée par la technologie, elle a surpassé les civilisations. Elle est intelligente au delà de toute mesure, et—
+N'ayant pas la capacité d'user de violence, l'Île a persisté plus longtemps que des mondes entiers. Sans être encombrée par la technologie, elle a surpassé les civilisations. Elle est intelligente au delà de toute mesure, et—
 
 —et elle est bienveillante. Elle doit l'être. J'en suis plus certaine à chaque heure qui passe. Comment peut-elle simplement concevoir la notion d'ennemi?
 
@@ -812,22 +751,22 @@ Je repense aux noms que je lui ai donné, avant de savoir. Ballon de viande. Kys
 
 D'autre part, un mot conviendrait mieux dans le cas où Chimp gagnerait: un animal écrasé sur la route. Et plus je regarde, plus j'ai peur que cette machine haineuse aie raison.
 
-Si l'Ile est capable de se défendre, je ne peut sûrement pas dire comment.
+Si l'Île est capable de se défendre, je ne peux sûrement pas dire comment.
 
 
 		* * *
 
 
 
-﻿"Eriophora est un paradoxe, tu sais. Elle viole les lois de la physique."
+"Ériophora est un paradoxe, tu sais. Elle viole les lois de la physique."
 
 Nous sommes dans une des alcôves communes au delà de la notochorde ventrale, prenant une pause loin de la bibliothèque. J'ai décidé de recommencer par les principes premiers. Dix me regarde avec un compréhensible mélange de confusion et de méfiance; mon affirmation est presque trop stupide pour être démentie.
 
-"C'est vrai," l'assuré-je. "Ca prend bien trop d'énergie d'accélérer un vaisseau de la masse d'Eri, spécialement à des vitesses relativistes. Il faudrait l'énergie dégagée par un soleil entier. Les gens pensaient que si nous voyagions un jour vers les étoiles, nous devrions le faire dans des vaisseaux de la taille de ton ongle. L'équipage serait constitué de personnalités virtuelles téléchargées dans des puces."
+"C'est vrai," l'assuré-je. "Ca prend bien trop d'énergie d'accélérer un vaisseau de la masse d'Éri, spécialement à des vitesses relativistes. Il faudrait l'énergie dégagée par un soleil entier. Les gens pensaient que si nous voyagions un jour vers les étoiles, nous devrions le faire dans des vaisseaux de la taille de ton ongle. L'équipage serait constitué de personnalités virtuelles téléchargées dans des puces."
 
-C'est trop absurde, même pour Dix. "Faux. Sans masse, ils ne pourraient tomber vers rien. Eri ne fonctionnerait pas si elle faisait cette taille."
+C'est trop absurde, même pour Dix. "Faux. Sans masse, ils ne pourraient tomber vers rien. Éri ne fonctionnerait même pas si elle faisait cette taille."
 
-"Mais suppose que tu ne peux pas déplacer cette masse. Pas de trous de vers, par de conduits de Higgs, rien qui puisse lancer ton champ gravitationnel dans la direction que tu veux. Ton centre de masse reste là... au centre de ta masse."
+"Mais suppose que tu ne peux pas déplacer cette masse. Pas de trous de vers, pas de conduits de Higgs, rien qui puisse lancer ton champ gravitationnel dans la direction que tu veux. Ton centre de masse reste là... au centre de ta masse."
 
 Un hochement de tête typiquement Dixonnien. "Mais on a ces choses!"
 
@@ -841,9 +780,9 @@ Ses pieds tambourinent en parade sur le pont.
 
 "Chimp ne peut pas changer. Les règles qu'il suit ont dix milliards d'années, il n'a aucune imagination, et pourtant ce n'est la faute de personne; c'est juste que les gens ne savaient pas comment stabiliser une mission sur une telle échelle de temps. Ils voulaient nous garder sur les rails, donc ils ont construit une machine qui ne pourrait pas en sortir; mais ils savaient aussi que les choses changent, et c'est la raison pour laquelle nous sommes là, Dix. Pour gérer le genre de choses que Chimp ne peut pas."
 
-"L'Ile," comprends Dix.
+"L'Île," comprend Dix.
 
-"L'Ile."
+"L'Île."
 
 "Chimp s'en sort très bien avec elle."
 
@@ -903,7 +842,7 @@ Pour une fois, il n'a plus rien à dire.
 
 "Je suis mauvaise!" Une partie de moi entend le grincement écervelé dans ma voix, à la limite de l'hystérie.
 
-"Pour la mission." Dis se retourne et quitte la pièce d'un air furieux.
+"Pour la mission." Dix se retourne et quitte la pièce d'un air furieux.
 
 Mes mains me font mal. Je regarde, surprise: mes poings sont tellement serrés que mes ongles s'enfoncent dans mes paumes. Je dois faire un vrai effort pour les ouvrir à nouveau.
 
@@ -919,27 +858,27 @@ C'est à ça que ça ressemble d'être éveillé.
 
 
 
-﻿Je suis réveillée, je suis toute seule, et j'en ai marre d'être surpassée en nombre par des crétins. Il y a des règles, il y a des risques, et on ne réveille pas les morts sur un coup de tête, mais j'en ai rien à faire. J'appelle les renforts.
+Je suis réveillée, je suis toute seule, et j'en ai marre d'être surpassée en nombre par des crétins. Il y a des règles, il y a des risques, et on ne réveille pas les morts sur un coup de tête, mais j'en ai rien à faire. J'appelle les renforts.
 
 Dix doit bien avoir d'autres parents, un père au moins, il n'a certainement pas reçu ce chromosome Y de ma part. J'avale ma propre inquiétude et je regarde le manifeste; affiche les séquences de gènes, fais des recoupements.
 
-Ah. Un seul autre parent: Kai. Je me demande si c'est un simple coïncidence, ou bien si Chimp a tiré trop de conclusions de notre petite partie de jambes-en-l'air dans la constellation du Cygne. Pas d'importances. C'est autant le tien que le mien, Kai, il est temps de te ramener à tes responsabilités, temps de—
+Ah. Un seul autre parent: Kai. Je me demande si c'est une simple coïncidence, ou bien si Chimp a tiré trop de conclusions de notre petite partie de jambes-en-l'air dans la constellation du Cygne. Pas d'importances. C'est autant le tien que le mien, Kai, il est temps de te ramener à tes responsabilités, temps de—
 
 Oh merde. Oh non. S'il vous plaît, non.
 
 (Il y a des règles. Et il y a des risques.)
 
-Ça dit que c'était il y a trois constructions. Kai et Connie. Tous les deux. Un sas coincé, le prochain trop loin sur la coque d'Eri, une route d'urgence sacrément longue entre les deux. Ils ont pu revenir à l'intérieur, mais pas avant que le fond de rayonnements décalé vers le bleu ne les ait cuits dans leurs scaphandres. Ils ont continué à respirer plusieurs heures ensuite, ont parlé et bougé et pleuré comme s'ils étaient toujours vivants, tandis que leurs entrailles se fracturaient et saignaient.
+Ça dit que c'était il y a trois constructions. Kai et Connie. Tous les deux. Un sas coincé, le prochain trop loin sur la coque d'Éri, une route d'urgence sacrément longue entre les deux. Ils ont pu revenir à l'intérieur, mais pas avant que le fond de rayonnements décalé vers le bleu ne les ait cuits dans leurs scaphandres. Ils ont continué à respirer plusieurs heures ensuite, ont parlé et bougé et pleuré comme s'ils étaient toujours vivants, tandis que leurs entrailles se fracturaient et saignaient.
 
 Il y avait deux autres personnes réveillées durant cette période de travail, deux autres qui restaient pour nettoyer les saletés. Ishmael et—
 
 "Euh, tu as dis que—"
 
-"Espèce d'enfoiré!" Je bondis et frappd durement mon fils à la figure, le coeur brisé depuis dix secondes, mais avec la rage de dix millions d'années de déni derrière ce geste. Je sens les dents céder derrière ses lèvres. Il tombe en arrière, ses yeux aussi grands qu'un télescope, le sang emplissant déjà sa bouche.
+"Espèce d'enfoiré!" Je bondis et frappai durement mon fils à la figure, le coeur brisé depuis dix secondes, mais avec la rage de dix millions d'années de déni derrière ce geste. Je sens les dents céder derrière ses lèvres. Il tombe en arrière, ses yeux aussi grands qu'un télescope, le sang emplissant déjà sa bouche.
 
 "Tu as dit que je pouvais revenir—!" crie-t-il, battant en retraite le long du pont.
 
-"C'était ton père, putain! Tu savais, tu étais aux premières loges! Il est mort juste devant ton nez et tu ne me l'a même pas dit!"
+"C'était ton père, putain! Tu savais, tu étais aux premières loges! Il est mort juste devant ton nez et tu ne me l'as même pas dit!"
 
 "Je— Je—"
 
@@ -969,11 +908,11 @@ Il avale, et acquiesce. Il essuie du sang du revers de sa main.
 
 "Et qu'est ce que Chimp a dit de ça?"
 
-"Il a dit— la chose a dit que c'était OK," me dit Dix, d'un air tellement sincère que je suis tentée, à cet instant, de croire qu'il est réellement tout seul dans sa tête.
+"Il a dit— la machine a dit que c'était OK," me dit Dix, d'un air tellement sincère que je suis tentée, à cet instant, de croire qu'il est réellement tout seul dans sa tête.
 
 "Et donc tu as demandé sa permission." Il commence à acquiescer, mais je vois ce que ses yeux trahissent: "Ne me raconte pas de conneries, Dix."
 
-"Il— en fait c'est lui l'a suggéré."
+"Il— en fait c'est lui qui me l'a suggéré."
 
 "Je vois."
 
@@ -1003,7 +942,7 @@ Je ferme les yeux. C'est plus dur que je ne pensais.
 
 Alors comme ça tu ne les as pas vus depuis les cinq dernières constructions. Et il n'a pas atterri dans ta période d'éveil depuis Sagittarius. Ils dorment, tout simplement. Peut être la prochaine fois.
 
-"Et donc tu ne vérifie pas," dit lentement Dix. Du sang bulle sur sa lèvre inférieure; il ne semble pas s'en apercevoir.
+"Et donc tu ne vérifies pas," dit lentement Dix. Du sang bulle sur sa lèvre inférieure; il ne semble pas s'en apercevoir.
 
 "On ne vérifie jamais." Seulement moi, je l'ai fait, et maintenant ils sont partis. Ils sont partis tous les deux. À part ces petits nucléotides cannibalisés que Chimp a recyclés dans mon fils, maladapté et défectueux. Nous sommes les seules créatures à sang chaud à mille années lumière à la ronde, et je suis tellement seule.
 
@@ -1014,13 +953,13 @@ Alors comme ça tu ne les as pas vus depuis les cinq dernières constructions. E
 
 
 
-﻿À l'époque, sur Terre —quand la Terre existait encore— il y avait ces petits animaux qu'on appelait des chats. J'en ai eu un pendant un temps. Parfois je le regardais dormir pendant des heures: ses pattes, ses moustaches et ses oreilles tressautaient frénétiquement pendant qu'il poursuivait ses proies imaginaires dans les paysages que son cerveau ensommeillé conjurait.
+À l'époque, sur Terre —quand la Terre existait encore— il y avait ces petits animaux qu'on appelait des chats. J'en ai eu un pendant un temps. Parfois je le regardais dormir pendant des heures: ses pattes, ses moustaches et ses oreilles tressautaient frénétiquement pendant qu'il poursuivait ses proies imaginaires dans les paysages que son cerveau ensommeillé conjurait.
 
 Mon fils ressemble à ça quand Chimp se faufile dans ses rêves.
 
 C'est presque trop littéral comme métaphore: le câble se faufile réellement dans sa tête comme une espèce de parasite, transmettant au travers d'une bonne vieille fibre optique maintenant que l'option sans-fil a été désactivée. Ou probablement en transmettant de force, j'imagine; le poison se déverse dans la tête de Dix, pas dans l'autre sens.
 
-Je ne devrais pas être là. N'ai-je pas à l'instant piqué une crise sur la violation de ma vie privée? (À l'instant. Il y a douze jours-lumière. Tout est relatif.) Et pourtant je ne vois pas ici de vie privée à perdre pour Dix ici: pas de décoration sur les murs, pas de dessins ou de hobbies, pas de console de jeux. Les sextoys omniprésents dans toutes les chambres restent inutilisés sur leur étagère; j'aurais pensé qu'il était sous traitement anti-libidineux si l'expérience récente ne m'avait pas prouvé le contraire.
+Je ne devrais pas être là. N'ai-je pas à l'instant piqué une crise sur la violation de ma vie privée? (À l'instant. Il y a douze jours-lumière. Tout est relatif.) Et pourtant je ne vois pas ici de vie privée à perdre pour Dix: pas de décorations sur les murs, pas de dessins ou de hobbies, pas de console de jeux. Les sextoys omniprésents dans toutes les chambres restent inutilisés sur leur étagère; j'aurais pensé qu'il était sous traitement anti-libidineux si l'expérience récente ne m'avait pas prouvé le contraire.
 
 Qu'est ce que je fais? Est-ce que c'est une sorte d'instinct de maternage perverti, l'expression vestigiale d'un sous-programme maternel du Pléistocène? Suis-je aussi robotisée? Est-ce que mon tronc cérébral m'a amené ici pour monter la garde sur mon fils?
 
@@ -1032,7 +971,7 @@ Ils ne savent pas que je suis là. Chimp ne sais pas parce que nous avons fondu 
 
 Qu'est ce que je vais faire de toi, Dix? Rien de tout cela n'a de sens. Même tes mouvements trahissent le fait que tu as grandi dans une cuve— et pourtant je suis loin d'être le premier être-humain que tu aies vu. Tu as été entre de bonnes mains, avec des gens que je connais, des gens en qui j'ai confiance. En qui j'avais confiance. Comment as-tu fini de l'autre côté? Comment ont-ils pu te laisser dériver ainsi?
 
-Et pourquoi ne m'ont ils pas prévenu de ta présence?
+Et pourquoi ne m'ont ils pas prévenue de ta présence?
 
 Oui, je sais, il y a des règles. Il y a la menace d'une surveillance ennemie pendant nos longues nuits de mort, le danger d'avoir— d'autre pertes. Mais cela est sans précédents. Quelqu'un aurait dû laisser quelque chose, un indice derrière une métaphore trop subtile à décoder pour un simple d'esprit...
 
@@ -1059,7 +998,7 @@ Peut-être qu'ils ont essayé.
 
 
 
-﻿Et donc vient le moment où mon fils sors du nid, s'enferme dans une carapace de scarabée, et s'en va gambader. Il n'est pas tout seul; un des téléopérateurs de Chimp l'accompagne dehors sur la coque d'Eri, au cas où il perdrait pied et tomberait dans le passé étoilé.
+Et donc vient le moment où mon fils sort du nid, s'enferme dans une carapace de scarabée, et s'en va gambader. Il n'est pas tout seul; un des téléopérateurs de Chimp l'accompagne dehors sur la coque d'Éri, au cas où il perdrait pied et tomberait dans le passé étoilé.
 
 Peut-être que tout ceci ne sera jamais plus qu'un exercice, peut-être que ce scénario — perte catastrophique des systèmes de contrôle, Chimp et son suppléant redondant hors-service, toutes les tâches de maintenance atterrissant subitement sur les épaules des êtres de chair et de sang— est simplement une répétition générale pour une crise qui n'arrivera jamais. Mais même l'événement le plus improbable approche la certitude sur une période aussi longue que la vie de l'Univers; et donc nous agissons, machinalement. On s'entraîne. On retient notre respiration et on trempe un petit doigt dehors. On doit faire vite cependant: à cette vitesse, les rayonnements de fond, tirant vers le bleu, nous cuiraient en quelques heures.
 
@@ -1071,17 +1010,17 @@ Des mondes ont vécu et se sont éteints depuis la dernière fois où je me suis
 
 "Je ne comprends pas."
 
-"Tu crois que je ne vois pas ce qui se passe? Tu est entrain de construire la prochaine équipe. Tu est trop détesté par la vieille garde, donc tu recommences depuis le début avec des gens qui ne se souviennent pas des vieux jours. Des personnes que tu as... simplifiées."
+"Tu crois que je ne vois pas ce qui se passe? Tu est en train de construire la prochaine équipe. Tu est trop détesté par la vieille garde, donc tu recommences depuis le début avec des gens qui ne se souviennent pas des vieux jours. Des personnes que tu as... simplifiées."
 
 Chimp ne dit rien. Les flux de l’extérieur montrent Dix se hissant sur un terrain désordonné de basalte et de matrices de métal-composite.
 
 "Mais tu ne peux pas élever un enfant humain, pas tout seul." Je sais qu'il a essayé: il n'y a pas de traces de Dix sur le manifeste d'équipe avant ses cinq ans, quand il est apparu un jour et que personne ne s'est posé de questions sur lui parce personne ne s’en est jamais posé...
 
-"Regarde ce que tu as fait de lui. Il est très bon pour des conditions Si/Alors. Il ne peut pas être battu aux calculs mentaux et sur le travail répétitif. Mais il ne sais pas penser. Il ne peux même pas faire preuve de la plus simple des intuitions. Tu est comme —" Je me souviens des mythes Terriens, lorsque lire un livre ne semblait pas être une perte obscène de temps. "—une de ces louves, essayant d'élever un enfant humain. Tu peux lui apprendre comment marcher à quatre pattes, lui faire comprendre la dynamique d'une meute, mais tu ne peux pas lui apprendre comment marcher debout, comment parler ou comment être humain parce que tu est trop stupide, Chimp, et tu t'en es finalement rendu compte. Et c'est pour ça que tu me l'as fourré dans les pattes. Tu penses que je peux le réparer pour toi."
+"Regarde ce que tu as fait de lui. Il est très bon pour des conditions Si/Alors. Il ne peut pas être battu aux calculs mentaux et sur le travail répétitif. Mais il ne sait pas penser. Il ne peut même pas faire preuve de la plus simple des intuitions. Tu es comme —" Je me souviens des mythes Terriens, lorsque lire un livre ne semblait pas être une perte obscène de temps. "—une de ces louves, essayant d'élever un enfant humain. Tu peux lui apprendre comment marcher à quatre pattes, lui faire comprendre la dynamique d'une meute, mais tu ne peux pas lui apprendre comment marcher debout, comment parler ou comment être humain parce que tu es trop stupide, Chimp, et tu t'en es finalement rendu compte. Et c'est pour ça que tu me l'as fourré dans les pattes. Tu penses que je peux le réparer pour toi."
 
 Je reprend mon souffle, et prépare mon bluff.
 
-"Mais il n'est rien pour moi. Tu comprends? C'est même pire que rien, c'est un handicap. C'est un espion, un gâchis de dioxygène. Donne moi une seule raison pour moi de ne pas le coincer là dehors jusqu'à ce qu'il soit cuit."
+"Mais il n'est rien pour moi. Tu comprends? C'est même pire que rien, il est un handicap. C'est un espion, un gâchis de dioxygène. Donne moi une seule raison pour moi de ne pas le coincer là dehors jusqu'à ce qu'il soit cuit."
 
 "Tu es sa mère," me dit Chimp, parce qu'il a simplement tout lu sur l'instinct maternel et qu'il est trop stupide pour saisir la nuance.
 
@@ -1089,11 +1028,11 @@ Je reprend mon souffle, et prépare mon bluff.
 
 "Tu l'aimes."
 
-"Non." Un morceau de glace se forme dans ma poitrine. Ma bouche dit les mots; ils sortent mesurés et sans inflexion. "Je ne peux aimer personne, espèce de machin décérébrée. C'est ce pourquoi je suis ici. Tu penses vraiment qu'ils prendraient des risques sur la mission en prenant des petites poupées en verre qui ont besoin de s'attacher aux autres?"
+"Non." Un morceau de glace se forme dans ma poitrine. Ma bouche dit les mots; ils sortent mesurés et sans inflexion. "Je ne peux aimer personne, espèce de machine décérébrée. C'est ce pourquoi je suis ici. Tu penses vraiment qu'ils prendraient des risques sur la mission en prenant des petites poupées en verre qui ont besoin de s'attacher aux autres?"
 
 "Tu l'aimes."
 
-"Je peux le tuer quand je veux. Et c'est exactement ce que je ferais si tu ne bouges pas la porte."
+"Je peux le tuer quand je veux. Et c'est exactement ce que je ferai si tu ne bouges pas la porte."
 
 "Je t'en empêcherais," me dit Chimp, doucement.
 
@@ -1101,7 +1040,7 @@ Je reprend mon souffle, et prépare mon bluff.
 
 "Tu ne peux pas arrêter la mission", dit-il, presque gentiment. "Tu as déjà essayé."
 
-"Je ne parle pas d'arrêter la mission. Juste de la ralentir un petit peu. Ton scénario optimal n'est plus envisageable. La seule manière dont cette porte sera finie à présent, c'est en sauvant l'Ile ou bien en tuant ton prototype. La balle est dans ton camp."
+"Je ne parle pas d'arrêter la mission. Juste de la ralentir un petit peu. Ton scénario optimal n'est plus envisageable. La seule manière dont cette porte sera finie à présent, c'est en sauvant l'Île ou bien en tuant ton prototype. La balle est dans ton camp."
 
 La balance coût/bénéfices est évidente. Chimp pourrait la résoudre en un instant. Mais il ne dit pourtant rien. Le silence se prolonge. Il cherche d'autres options, je parie. Il essaye de trouver une solution de rechange. Il remet en question les prémices du scénario, essayant de décider si je ne bluffe pas, si tout ce qu'il a appris sur la relation mère-enfant est vraiment si loin de la réalité. Peut-être qu'il ressort de vieilles statistiques sur les meurtres inter familiaux, cherchant une lacune. Et peut être bien qu'il y en a une, qu'est-ce que j'en sais. Mais Chimp n'est pas comme moi, c'est un système plus simple qui essaye de comprendre un autre plus intelligent, et c'est ce qui me donne l'avantage.
 
@@ -1109,13 +1048,13 @@ La balance coût/bénéfices est évidente. Chimp pourrait la résoudre en un in
 
 J'éclate presque de rire. "Quoi?"
 
-"Ou bien je dirais à Dixon que tu as menacé de le tuer."
+"Ou bien je dirai à Dixon que tu as menacé de le tuer."
 
 "Mais fais donc."
 
 "Tu ne veux pas qu'il le sache."
 
-"Je m'en fous qu'il sache ou pas. Quoi, tu penses qu'il essayeras de me tuer en retour? Tu pense que je perdrais son amour?" Je m'attarde sur le dernier mot, l'étirant pour bien lui montrer combien il est grotesque.
+"Je m'en fous qu'il sache ou pas. Quoi, tu penses qu'il essayera de me tuer en retour? Tu penses que je perdrais son amour?" Je m'attarde sur le dernier mot, l'étirant pour bien lui montrer combien il est grotesque.
 
 "Tu perdras sa confiance. Vous devez avoir confiance l'un en l'autre, ici."
 
@@ -1134,44 +1073,44 @@ Mon fils flotte innocemment sur le fond étoilé, sa vie tenant sur un fil.
 
 
 
-﻿Nous dormons. Chimp, réticent, transmet les corrections à une myriade de petites trajectoires. Je programme l'alarme pour me réveiller toutes les deux semaines, brûlant un petit peu de ma chandelle au cas où l'ennemi essaye de me doubler une nouvelle fois; mais jusque là il se comporte comme prévu. DHF428 saute vers nous par petits incréments, comme ficelée le long d'une corde invisible. Le sol de l'usine vire sur tribord à vue d'oeil: les raffineries, les réservoir et les nano-fabriques, des essaims de von Neumanns se reproduisant, se cannibalisant et se recyclant les uns les autres pour fabriquer des boucliers et des circuits, des remorqueurs et des pièces détachées. Le top de la technologie Cro Magnon mute et se métastase tout autour de l'univers comme un cancer en armure.
+Nous dormons. Chimp, réticent, transmet les corrections à une myriade de petites trajectoires. Je programme l'alarme pour me réveiller toutes les deux semaines, brûlant un petit peu de ma chandelle au cas où l'ennemi essaye de me doubler une nouvelle fois; mais jusque là il se comporte comme prévu. DHF428 saute vers nous par petits incréments, comme ficelée le long d'une corde invisible. Le sol de l'usine vire sur tribord à vue d'oeil: les raffineries, les réservoir et les nano-fabriques, des essaims de von Neumanns se reproduisant, se cannibalisant et se recyclant les uns les autres pour fabriquer des boucliers et des circuits, des remorqueurs et des pièces détachées. Le top de la technologie Cro Magnon mute et se métastase tout autour de l'univers comme un cancer en armure.
 
-Et tendue comme un rideau entre elle et nous vibre une forme de vie irisée, fragile, immortelle et sans commune mesure, qui réduit tout ce que mon espèce a jamais accompli au rang de boue et de merde par le simple fait de son existence. Je n'ai jamais cru en des dieux, dans le Bien et le Mal. J'ai n'ai toujours cru qu'au fait qu'il y a les choses qui fonctionnent, et d'autres qui ne fonctionnent pas. Tout le reste, c'est de la poudre aux yeux, de la tricherie pour manipuler les fantassins comme moi.
+Et, tendue comme un rideau entre elle et nous, vibre une forme de vie irisée, fragile, immortelle et sans commune mesure, qui réduit tout ce que mon espèce a jamais accompli au rang de boue et de merde par le simple fait de son existence. Je n'ai jamais cru en des dieux, dans le Bien et le Mal. J'ai n'ai toujours cru qu'au fait qu'il y a les choses qui fonctionnent, et d'autres qui ne fonctionnent pas. Tout le reste, c'est de la poudre aux yeux, de la tricherie pour manipuler les fantassins comme moi.
 
-Mais je crois en cette Ile, parce que personne ne m'y force. Elle n'a pas besoin d'être crue sur la foi d’un légende: elle est simplement devant nous, son existence étant un fait empirique. Je ne connaitrais jamais son esprit, je ne saisirais jamais les détails de son origine et de son évolution. Mais je peux la voir: massive, époustouflante, tellement inhumaine qu'elle ne peut qu'être meilleure que nous, meilleure que tout ce que nous pourrions devenir.
+Mais je crois en cette Île, parce que personne ne m'y force. Elle n'a pas besoin d'être crue sur la foi d’une légende: elle est simplement devant nous, son existence étant un fait empirique. Je ne connaitrai jamais son esprit, je ne saisirai jamais les détails de son origine et de son évolution. Mais je peux la voir: massive, époustouflante, tellement inhumaine qu'elle ne peut qu'être meilleure que nous, meilleure que tout ce que nous pourrions devenir.
 
-Je crois en l'Ile. J'ai même risqué mon propre fils pour la sauver. Et je le tuerais pour venger sa mort.
+Je crois en l'Île. J'ai même risqué mon propre fils pour la sauver. Et je le tuerais pour venger sa mort.
 
 Je pourrais encore.
 
-De tous ces millions d'année gâchés, j'ai finalement fait quelque chose qui en vaille le coup.
+De tous ces millions d'année gâchés, j'ai finalement fait quelque chose qui en vaut le coup.
 
 
 		* * *
 
 
 
-﻿Approche finale.
+Approche finale.
 
 Les réticules s'alignent à d'autres réticules devant moi, une danse hypnotique de cibles s'alignant au micron près. Même maintenant, quelques minutes avant la mise à feu, la distance qui nous sépare de la porte à naître la rend invisible. À aucun moment serons-nous capables d'apercevoir notre destination. On file la laine bien trop vite: elle sera derrière nous avant même que l'on ne le sache.
 
 Ou, si les corrections de trajectoire sont mauvaises ne serait-ce que d'un cheveu — si notre courbe d'un trillion de kilomètres dérive de seulement mille mètre— nous serons morts. Avant de le savoir.
 
-Nos instruments indiquent que nous sommes précisément sur la cible. Chimp nous dit que nous sommes précisément sur la cible. Eriophora tombe vers l'avant, tirée à travers le vide par sa masse magiquement déplacée.
+Nos instruments indiquent que nous sommes précisément sur la cible. Chimp nous dit que nous sommes précisément sur la cible. Ériophora tombe vers l'avant, tirée à travers le vide par sa masse magiquement déplacée.
 
-Je me tourne vers les vues des drones relayée de la porte. C'est une fenêtre sur le passé— même encore maintenant, il y a un décalage de quelques minutes— mais le passé et le présent convergent l'un vers l'autre à chaque seconde. La porte nouvellement achevée rôde, noire et menaçante contre le tapis d'étoile, une bouche grande ouverte pour dévorer la réalité elle-même. Les Neumanns, les raffineries, les lignes d'assemblage: stationnés sur les côtés en colonnes verticales, leur travail accompli, leur utilité maintenant obsolète, leur annihilation collatérale imminente. Je suis prise de pitié, pour je ne sais quelle raison. Comme à chaque fois. J'aimerais qu'on puisse les récupérer au passage et les emmener avec nous, les recruter de nouveau pour la prochaine construction— mais les lois de l'économies sont partout, et elles disent qu'il est moins cher d'utiliser nos outils une seule fois et de s'en séparer ensuite.
+Je me tourne vers les vues de la porte relayées par les drones. C'est une fenêtre sur le passé— même encore maintenant, il y a un décalage de quelques minutes— mais le passé et le présent convergent l'un vers l'autre à chaque seconde. La porte nouvellement achevée rôde, noire et menaçante contre le tapis d'étoile, une bouche grande ouverte pour dévorer la réalité elle-même. Les Neumanns, les raffineries, les lignes d'assemblage: stationnés sur les côtés en colonnes verticales, leur travail accompli, leur utilité maintenant obsolète, leur annihilation collatérale imminente. Je suis prise de pitié, pour je ne sais quelle raison. Comme à chaque fois. J'aimerais qu'on puisse les récupérer au passage et les emmener avec nous, les recruter de nouveau pour la prochaine construction— mais les lois de l'économie sont partout, et elles disent qu'il est moins cher d'utiliser nos outils une seule fois et de s'en séparer ensuite.
 
 Une règle que Chimp semble prendre particulièrement à coeur, plus qu'on ne l'aurait cru.
 
-Au moins nous avons épargné l'Ile. J'aurais espéré pouvoir rester un peu. Le premier contact avec une intelligence réellement étrangère, et qu'est ce qu'on échange? Des signaux de trafic. Sur quoi se concentre l'Ile, quand elle ne plaide pas pour sa vie?
+Au moins nous avons épargné l'Île. J'aurais espéré pouvoir rester un peu. Le premier contact avec une intelligence réellement étrangère, et qu'est ce qu'on échange? Des signaux de trafic. Sur quoi se concentre l'Île, quand elle ne plaide pas pour sa vie?
 
-J'ai pensé demander. J'ai eu l’idée de me réveiller lorsque le décalage temporel se réduirait de prohibitif à simplement incommodant, réfléchi à comment élaborer un jargon qui pourrait englober les vérités et les philosophies d'un esprit plus vaste que toute l'humanité. Quelle fantaisie enfantine. L'Ile existe bien au delà de tout grotesque processus Darwinien qui aurait donné forme à ma chair. Il ne peut pas y avoir de communication ici, pas de rencontre d'esprits. Les Anges ne parlent pas aux fourmis.
+J'ai pensé demander. J'ai eu l’idée de me réveiller lorsque le décalage temporel se réduirait de prohibitif à simplement incommodant, réfléchi à comment élaborer un jargon qui pourrait englober les vérités et les philosophies d'un esprit plus vaste que toute l'humanité. Quelle fantaisie enfantine. L'Île existe bien au delà de tout grotesque processus Darwinien qui aurait donné forme à ma chair. Il ne peut pas y avoir de communication ici, pas de rencontre d'esprits. Les Anges ne parlent pas aux fourmis.
 
-Moins de trois minutes avant mise à feu. Je vois la lumière au bout du tunnel. La machine à remonter le temps accidentelle d'Eri ne regarde pratiquement plus dans le passé, je pourrais presque retenir ma respiration dans l'intervalle qui nous sépare. Toujours alignés, selon toutes les sources.
+Moins de trois minutes avant mise à feu. Je vois la lumière au bout du tunnel. La machine à remonter le temps accidentelle d'Éri ne regarde pratiquement plus dans le passé, je pourrais presque retenir ma respiration dans l'intervalle qui nous sépare. Toujours alignés, selon toutes les sources.
 
 L'écran tactique bipe. "On reçoit un signal," me reporte Dix, et c'est exact: au coeur de l'hologramme, le soleil clignote de nouveau. Mon coeur rate un battement: est-ce que l'ange nous parle, finalement? Un merci, peut-être? Un traitement pour la mort par irradiation? Mais—
 
-"C'est juste devant nous", murmure Dix, au moment ou la réalisation me serre la gorge.
+"C'est devant nous", murmure Dix, au moment où la réalisation me serre la gorge.
 
 Deux minutes.
 
@@ -1187,9 +1126,9 @@ Parce que ce n'est pas du tout les minutieux signaux de trafic que nous avons su
 
 Stop. Stop. Stop. Stop.
 
-On ne s'arrête pas. Il n'existe aucune force dans l'univers qui pourrait ne serait-ce que nous ralentir. Le passé rejoint le présent; Eriophora plonge dans le centre de la porte en une nano seconde. L'inimaginable masse de son coeur froid et noir égratigne une dimension lointaine, la traîne en criant jusqu'au point de rupture. Le portail qui a démarré entre en éruption derrière nous, fleurit en une couronne aveuglante, toutes les longueurs d'ondes émises à des niveaux mortels pour toutes les choses vivantes. Nos filtres arrières se ferment prestement.
+On ne s'arrête pas. Il n'existe aucune force dans l'univers qui pourrait ne serait-ce que nous ralentir. Le passé rejoint le présent; Ériophora plonge dans le centre de la porte en une nano seconde. L'inimaginable masse de son coeur froid et noir égratigne une dimension lointaine, la traîne en criant jusqu'au point de rupture. Le portail qui a démarré entre en éruption derrière nous, fleurit en une couronne aveuglante, toutes les longueurs d'ondes émises à des niveaux mortels pour toutes les choses vivantes. Nos filtres arrières se ferment prestement.
 
-Le front d'onde ardent nous poursuit dans le noir comme il l'a fait des milliers de fois avant. Comme d'habitude, au cours du temps, les contractions vont s'apaiser. Le trou de ver vasse fixer dans son collier. Et juste alors, peut-être serons-nous assez près pour entrevoir une nouvelle monstruosité transcendantale émerger de cette embrasure magique.
+Le front d'onde ardent nous poursuit dans le noir comme il l'a fait des milliers de fois avant. Comme d'habitude, au cours du temps, les contractions vont s'apaiser. Le trou de ver va se fixer dans son collier. Et juste alors, peut-être serons-nous assez près pour entrevoir une nouvelle monstruosité transcendantale émerger de cette embrasure magique.
 
 Je me demande si vous verrez le cadavre que l'on a laissé derrière nous.
 
@@ -1198,7 +1137,8 @@ Je me demande si vous verrez le cadavre que l'on a laissé derrière nous.
 
 
 
-﻿"Peut être que nous avons raté quelque chose," me dit Dix.
+"Peut être que nous avons raté quelque chose," me dit Dix.
+
 "On a raté pratiquement tout," lui expliquai-je.
 
 DHF428 tend vers le rouge derrière nous. L'effet lentille cligne dans nos caméras arrière; la porte s'est stabilisée et le trou de ver est en route, soufflant de la lumière, l'espace et le temps en une bulle iridescente depuis sa grande bouche en métal. On continuera à regarder en arrière jusqu'à ce qu'on passe la limite de Rayleigh, bien après que ça ne serve encore à quelque chose.
@@ -1207,17 +1147,17 @@ Jusque là, rien n'en est sorti.
 
 "Peut-être que nos chiffres étaient faux," essaye-t-il. "Peut être qu'il y a eu une erreur de calcul."
 
-Nos chiffres étaient bons. Pas une heure ne passe sans que je les re-vérifie. L'Ile devait avoir des ennemis, j'imagine. Des victimes, de toute façon.
+Nos chiffres étaient bons. Pas une heure ne passe sans que je ne les re-vérifie. L'Île devait avoir des ennemis, j'imagine. Des victimes, en tout cas.
 
 J'avais raison sur une chose, par contre. Cet enfoiré était sacrément rusé. Nous voir venir, comprendre comment nous parler; nous utiliser comme une arme, transformer une menace pour son existence en une, une...
 
-Une tapette à mouche est un mot qui convient bien.
+Tapette à mouche est un mot qui convient bien.
 
 "Peut-être qu'il y avait une guerre," marmonnai-je. "Peut-être qu'il voulait profiter de l'espace libéré. Ou peut-être que c'était une dispute familiale."
 
 "Peut-être qu'il ne savait pas," suggère Dix. "Il pensait probablement que ces coordonnées étaient vides."
 
-Je me demande pourquoi penser cela. Pourquoi s'en inquiéter même? Et alors la réalisation s'abat sur moi: il n'est pas inquiet, pas pour l'Ile en tout cas. Pas plus qu'il ne l'a jamais été. Il n'invente pas ces jolies alternatives pour lui-même.
+Je me demande pourquoi penser cela. Pourquoi s'en inquiéter même? Et alors la réalisation s'abat sur moi: il n'est pas inquiet, pas pour l'Île en tout cas. Pas plus qu'il ne l'a jamais été. Il n'invente pas ces jolies alternatives pour lui-même.
 
 Mon fils essaie de me réconforter.
 
@@ -1225,7 +1165,7 @@ Je n'ai pas besoin d'être dorlotée, pourtant. J'ai été stupide: je me suis l
 
 Mais je vais mieux maintenant.
 
-C'est fini: une autre construction, un autre test de performances, une autre tranche de vie irremplaçable qui nous rapproche toujours plus près de l'accomplissement. Le succès n'a pas d'importance. Le talent avec lequel on effectue notre travail n'a pas d'intérêt. Mission accomplie est une expression qui n'a pas de sens sur Eriophora, un oxymoron tout au plus. Il y aura peut être un jour un échec, mais il n'y a pas de ligne d'arrivée. Nous voguons pour toujours, rampant à travers l'univers comme des fourmis, tirant derrière nous notre fichue super-autoroute.
+C'est fini: une autre construction, un autre test de performances, une autre tranche de vie irremplaçable qui nous rapproche toujours plus près de l'accomplissement. Le succès n'a pas d'importance. Le talent avec lequel on effectue notre travail n'a pas d'intérêt. Mission accomplie est une expression qui n'a pas de sens sur Ériophora, un oxymoron tout au plus. Il y aura peut être un jour un échec, mais il n'y a pas de ligne d'arrivée. Nous voguons pour toujours, rampant à travers l'univers comme des fourmis, tirant derrière nous notre fichue super-autoroute.
 
 J'ai tellement de choses à apprendre.
 
@@ -1236,62 +1176,41 @@ Au moins mon fils est là pour me les apprendre.
 
 
 
-﻿
+\section*{Notes}
 
+\renewcommand{\labelitemi}{$\bullet$}
 
+\subsubsection*{Intro}
 
+\begin{itemize}
+ \item The Damascus Disease : traduit par "la maladie de Damas", mais il pourrait s'agir du conflit israelo palestinien.\par Voir \url{http://www.hudson-ny.org/158/the-damascus-disease}. À vérifier?
+\end{itemize}
+  
+  
+\subsubsection*{Chapitre 2}
 
+\begin{itemize}
+ \item the Tank: difficile d'avoir confirmation, mais je pense que c'est un hologramme. Du coup je l'ai traduit par holo ou hologramme.
+ \item les "Vons" réfèrent très probablement aux machines de Von Neumann, des machines capables de s'auto répliquer. Il faudrait trouver un nom "francisé" pour ces choses. Pour le moment, je les appelle les "Neumanns".
+ \item now there's a laugh and a half : pas trouvé de références. Traduit par "c'en est presque comique".
+ \item corsec: une unité de temps. J'imagine que ca correspond à la seconde, je l'ai traduit par "secondes".
+\end{itemize}
+ 
+\subsection*{Chapitre 4}
 
+\begin{itemize}
+ \item STP = Standard Temperature and Pressure
+ \item BI lasers: peut être des lasers au Bismuth? Aucune idée de l'acronyme.
+\end{itemize} 
 
+\subsection*{Chapitre 5}
 
+\begin{itemize}
+ \item VR : aucune idée de la traduction. J'ai traduit cela par des "écrans". 
+\end{itemize}
+\section*{Historique}
 
-
-
-Notes:
-
-Intro:
-
-- The Damascus Disease : traduit par "la maladie de Damas", mais il pourrait
-s'agir du conflit israelo palestinien (cf 
-http://www.hudson-ny.org/158/the-damascus-disease ). A vérifier?
-
-Chapitre 2:
-
-- the Tank: difficile d'avoir confirmation, mais je pense que c'est un
-hologramme. Du coup je l'ai traduit par holo ou hologramme.
-
-- les "Vons" réfèrent très probablement aux machines de Von Neumann, des
-machines capables de s'auto répliquer. Il faudrait trouver un nom "francisé"
-pour ces choses. Pour le moment, je les appelle les "Neumanns".
-
-- now there's a laugh-and-a-half : pas trouvé de références. Traduit par "c'en
-est presque comique".
-
-- corsec: une unité de temps. J'imagine que ca correspond à la seconde, je l'ai
-traduit par "secondes".
-
-Chapitre 4:
-
-- STP = Standard Temperature and Pressure - BI lasers: peut être des lasers au
-Bismuth? Aucune idée de l'acronyme.
-
-Chapitre 5:
-
-- VR : aucune idée de la traduction. J'ai traduit cela par des "écrans".
---------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-﻿
+\begin{itemize}
+  \item 17 Octobre 2010, Première version réalisée sous Pages (Mac).
+  \item 24 Octobre 2010, Deuxième version révisée, et générée grâce à \LaTeX.
+\end{itemize}

@@ -21,7 +21,8 @@ fi
 for file in Chapitres/Chap* 
 do
 	echo "Process file $file"
-	cat "$file" >> $output_file
+	delatex $file > $file.txt
+	cat "$file.txt" >> $output_file
 	echo "\r\n\r\n\r\n\t\t* * *\r\n\r\n\r\n" >> $output_file
 done;
 

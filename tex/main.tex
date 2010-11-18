@@ -17,9 +17,9 @@
 %%% La distribution XeteX permet d'utiliser facilement une fonte externe (ici Helvetica).
 %%% On a besoin de xunicode (parce que les fichiers texte sont en unicode) et de fontspec
 %%% pour que XeteX fonctionne bien.
-\usepackage{xunicode}
 \usepackage{fontspec}
-\setromanfont[Mapping=tex-text]{Helvetica}
+\usepackage{xunicode}
+\setromanfont[Mapping=tex-text]{DejaVu Serif} 
 
 %%% Décommenter ces lignes et commenter les 3 du dessus pour faire l'export vers html 
 %%% Commande: htlatex main.tex -> plein d'erreurs, faire Control+D pour les passer, l'export
@@ -33,6 +33,9 @@
 
 \usepackage{graphicx}
 \usepackage[frenchb]{babel}
+\usepackage[babel,french=guillemets*]{csquotes} 
+\MakeOuterQuote{"} 
+\frenchspacing
 
 %%% 			liens et références dans les PDF
 \usepackage{hyperref}
@@ -96,7 +99,6 @@
 
 \title{L'Île}
 \author{Peter Watts}
-%\date{Dimanche, 24 Octobre 2010}  %%% à décommenter un jour?
  \date{}
 
 
@@ -112,9 +114,10 @@
 \cleardoublepage
 
 %%% le reste a un numéro de page, on commence à 1
-\pagestyle{myheadings}
-\markright{\bf{\emph{The Island}}\hfill}
 \setcounter{page}{1}
+%%% Style de des headers de chaque page
+\pagestyle{myheadings}
+\markright{\emph{The Island}\hfill}
  
 %%% le texte en lui-même
 \input{../Chapitres/Intro}

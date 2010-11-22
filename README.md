@@ -1,5 +1,8 @@
-Title: Traduction de "The Island", de Peter Watts
-Author: Guillaume B (guitreize gmail com)
+Traduction de "The Island", de Peter Watts
+==========================================
+
+
+Author: Guillaume B (guitreize gmail com) 
 
 Voici les sources de ma traduction amateur de The Island, une nouvelle de Peter Watts.
 Ces sources sont sous licence Creative Commons (cf fichier LICENSE)

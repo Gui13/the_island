@@ -46,7 +46,7 @@ Dix incline sa tête un peu sur le côté, presque pour acquiescer.
 \newpage
 "Trace un graphe temporel." Je n'ai jamais pu m'empêcher d'hausser le ton, juste un peu, quand je m'adresse à Chimp. Obéissante (\emph{Obéissante}. C'en est presque comique), l'IA efface le panorama spatial pour le remplacer par ceci:
 
-\includegraphics{../dots}
+\includegraphics{dots}
 
 "Séquence répétitive", me dit Dix. "Les bips ne changent pas, mais l'es\-pa\-ce\-ment croît de manière log-linéaire, boucle toutes les 92.5 secondes. Chaque cycle démarre à 13.2 bips/s, et diminue dans le temps." 
 

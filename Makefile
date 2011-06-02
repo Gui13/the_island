@@ -1,10 +1,10 @@
 
 all:
 	@echo Making PDF
-	@cd tex && xelatex "main.tex" > /dev/null
-	cp tex/main.pdf The_Island-FR.pdf
+	@xelatex "main.tex" -output-directory=output/
+	cp output/main.pdf output/The_Island-FR.pdf
 
 latex:
 	@echo Making PDF using LaTeX
-	@cd tex && pdflatex "main_latex.tex"
-	cp tex/main_latex.pdf The_Island-FR-LaTeX.pdf
+	@pdflatex "main_latex.tex" -output-directory output/
+	cp output/main_latex.pdf output/The_Island-Latex-FR.pdf

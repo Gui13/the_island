@@ -7,3 +7,7 @@
   \item 18 Novembre 2010, Améliorations typographiques: guillemets, fonte libre\ldots
   \item 2 Juin 2011, Patch de Emmanuel, quelques typos et remaniement du dépôt.
 \end{itemize}
+
+\begin{flushright}
+Généré le \today{}.
+\end{flushright}
